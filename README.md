@@ -6,8 +6,8 @@ I am still at the beginning of my career and looking forward to inspiring ideas 
 Some technologies I enjoy working with include Kubernetes, Docker, Microsoft Azure plsu M365 and Amazon Web Services (AWS), Google Workspace, Cloudflare, Active Directory.
 
 **What I want to be certified for:**
-AWS Certified Solutions Architect - Associate
-Docker Certified Associate
+- AWS Certified Solutions Architect - Associate
+- ocker Certified Associate
 
 **🔭 I’m currently working on:**
 Building a perfect home lab network solution for my self-hosting
