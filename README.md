@@ -36,15 +36,15 @@ Building a perfect home lab network solution for my self-hosting
 - Microsoft Security Operations Analyst Associate
 - Microsoft Information Security Administrator Associate
 - Microsoft Security, Compliance, and Identity Fundamentals
-- TeleTrusT Information Security Professional (T.I.S.P.)
+- TeleTrusT Information Security Professional (T.I.S.P.) Exam
 
 📫 How to get in touch:
 Feel free to reach out to me at
 
-On Mastodon https://social.cosplaygif.com/@marciifee
-On Instagram @marciifee
-By e-mail hello@theblaqcat.com
-On LinkedIn @marc.langenberg
+- On Mastodon https://social.cosplaygif.com/@marciifee
+- On Instagram @marciifee
+- By e-mail hello@theblaqcat.com
+- On LinkedIn @marc.langenberg
 
 <!--
 **marciifee/marciifee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
