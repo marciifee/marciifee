@@ -13,8 +13,8 @@ Some technologies I enjoy working with include Kubernetes, Docker, Microsoft Azu
 Building a perfect home lab network solution for my self-hosting
 
 🤔 I’m looking for help with:
-- Kubernetes cluster on ARM CPUs
-- Linux Ubuntu Server on ARM
+- Kubernetes clustering
+- iOS and Android Apps deploying
 
 🌱 I’m currently learning:
 - Cisco CCNA Exam
