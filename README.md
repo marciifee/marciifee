@@ -16,6 +16,7 @@ If you’re interested in collaborations, creative tech, or security projects, f
 
 **I'm currently certified as:**
 - IT-Security Coordinator (IHK)
+- Fachinformatiker in Systemintegration (IHK) / Computer Science Expert Subject Area: System Integration
 
 **What I want to be certified for:**
 - Microsoft Azure Solutions Architect Expert
