@@ -8,7 +8,8 @@ The unique energy, creativity, and passion of the cosplay scene have inspired me
 With over a decade of professional experience as a photographer and retoucher (for brands such as Ulla Popken, Douglas, and dm, ...), I can combine creative with technical strengths together.
 My journey from digital film production to commercial fashion photography and IT allows me how to merge creativity with technology in secure, smart and innovative ways.
 
-Some technologies I enjoy working with include Kubernetes, Docker, Microsoft M365, Microsoft Azure, Amazon Web Services (AWS), Google Workspace, Cloudflare, Active Directory / Entra ID, Python, PHP, Proxmox, Wazuh, OpenVAS, MITRE, Zero Trust, SIEM and XDR — among many others
+Some technologies I enjoy working with include:
+Kubernetes, Docker, Microsoft M365, Microsoft Azure, Amazon Web Services (AWS), Google Workspace, Cloudflare, Active Directory / Entra ID, Python, PHP, Proxmox, Wazuh, OpenVAS, MITRE, Zero Trust, SIEM and XDR — among many others
 I am still at the beginning of my career, constantly learning, building, and exploring new ideas.
 If you’re interested in collaborations, creative tech, or security projects, feel free to reach out — I’d love to connect! 🚀
 
