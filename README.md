@@ -7,7 +7,7 @@ I’m currently preparing for my exam to become an **IT-Security Specialist / ge
 
 ### 🎭 About Me  
 
-For more than **ten years**, I’ve been deeply involved in the **cosplay and convention community**, working **voluntarily as a division and team leader at DoKomi** from **2014 to 2024**.  
+For more than **ten years**, I’ve been deeply involved in the **cosplay and convention community**, working **voluntarily as a division and team leader at DoKomi Expo in Düsseldorf, Germany** from **2014 to 2024**.  
 The unique energy, creativity, and passion of the cosplay scene have fascinated me ever since and continue to influence both my **technical** and **creative** projects today.  
 
 With over a **decade of experience as a photographer and retoucher** (for brands such as *Ulla Popken, Douglas,* and *dm*), I combine **creative vision** with **technical expertise**.  
