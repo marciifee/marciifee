@@ -1,7 +1,7 @@
 ### 🌸 Aloha! I'm Marc 👋  
 
 My name is **Marc Langenberg** — I’m an **IT specialist** with a focus on **cybersecurity** and **cloud solutions**, and the creative mind behind my passion project **CosplayGIF**.  
-I’m currently preparing for my exam to become an **IT-Security Specialist / geprüfter Berufsspezialist in Informationssicherheit (IHK)**, deepening my expertise in secure system architecture and compliance.  
+I’m currently preparing for my exam to become an **Certified Information Security Specialist (CISS) (CCI) / geprüfter Berufsspezialist in Informationssicherheit (IHK)**, deepening my expertise in secure system architecture and compliance.  
 
 ---
 
