@@ -32,18 +32,6 @@ If you’re interested in collaborations, creative tech, or security projects, f
 - 🧠 IT-Security Coordinator (IHK)  
 - 💻 Fachinformatiker in Systemintegration (IHK) / Computer Science Expert — System Integration
 
----
-
-### 🌱 I’m Currently Learning  
-
-- ⚙️ Terraform
-- ☁️ Kubernetes
-- 🪣 AWS Certified Solutions Architect – Associate    
-- ⚙️ Microsoft Azure Administrator Associat
-- 🧩 Microsoft Security, Compliance, and Identity Fundamentals  
-- 🧱 TeleTrusT Information Security Professional (T.I.S.P.) Exam  
-
----
 
 **Future certifications I’m aiming for:**  
 - ☁️ Microsoft Azure Solutions Architect Expert  
@@ -60,6 +48,17 @@ If you’re interested in collaborations, creative tech, or security projects, f
 - 🧭 Certified Kubernetes Administrator (CKA)  
 - 🪣 AWS Certified Solutions Architect – Associate  
 - 🛡️ TeleTrusT Information Security Professional (T.I.S.P.)  
+
+---
+
+### 🌱 I’m Currently Learning  
+
+- ⚙️ Terraform
+- ☁️ Kubernetes
+- 🪣 AWS Certified Solutions Architect – Associate    
+- ⚙️ Microsoft Azure Administrator Associat
+- 🧩 Microsoft Security, Compliance, and Identity Fundamentals  
+- 🧱 TeleTrusT Information Security Professional (T.I.S.P.) Exam  
 
 ---
 
