@@ -30,15 +30,32 @@ If you’re interested in collaborations, creative tech, or security projects, f
 
 **I'm currently certified:**  
 - 🧠 IT-Security Coordinator (IHK)  
-- 💻 Fachinformatiker in Systemintegration (IHK) / Computer Science Expert — System Integration  
+- 💻 Fachinformatiker in Systemintegration (IHK) / Computer Science Expert — System Integration
+
+---
+
+### 🌱 I’m Currently Learning  
+
+- ⚙️ Terraform
+- ☁️ Kubernetes
+- 🪣 AWS Certified Solutions Architect – Associate    
+- ⚙️ Microsoft Azure Administrator Associat
+- 🧩 Microsoft Security, Compliance, and Identity Fundamentals  
+- 🧱 TeleTrusT Information Security Professional (T.I.S.P.) Exam  
+
+---
 
 **Future certifications I’m aiming for:**  
 - ☁️ Microsoft Azure Solutions Architect Expert  
 - ⚙️ Microsoft Azure Administrator Associate  
-- 🤖 Microsoft Azure AI Engineer Associate  
+- 🤖 Microsoft Azure AI Engineer Associate
+- 💼 Microsoft Endpoint Administrator Associate  
 - 🧩 Microsoft M365 Administrator Expert  
-- 🔐 Microsoft Cybersecurity Architect Expert  
-- 🪟 Microsoft Windows Server Hybrid Administrator Associate  
+- 🔐 Microsoft Cybersecurity Architect Expert
+- 🛡️ Microsoft Security Operations Analyst Associate
+- 🔏 Microsoft Information Protection Administrator Associate  
+- 🪟 Microsoft Windows Server Hybrid Administrator Associate
+- 📡 Cisco CCNA  
 - 🧱 Certified Kubernetes Security Specialist (CKS)  
 - 🧭 Certified Kubernetes Administrator (CKA)  
 - 🪣 AWS Certified Solutions Architect – Associate  
@@ -57,17 +74,6 @@ If you’re interested in collaborations, creative tech, or security projects, f
 
 - 
 - iOS and Android app deployment  
-
----
-
-### 🌱 I’m Currently Learning  
-
-- 📡 Cisco CCNA Exam  
-- 💼 Microsoft Endpoint Administrator Associate  
-- 🛡️ Microsoft Security Operations Analyst Associate  
-- 🔏 Microsoft Information Protection Administrator Associate  
-- 🧩 Microsoft Security, Compliance, and Identity Fundamentals  
-- 🧱 TeleTrusT Information Security Professional (T.I.S.P.) Exam  
 
 ---
 
