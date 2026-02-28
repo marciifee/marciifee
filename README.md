@@ -44,7 +44,6 @@ SIEM · XDR · and many more 🚀
   <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="cloudflare" alt="cloudflare" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudflare-pages.svg" title="cloudflare pages" alt="cloudflare pages" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflareworkers/cloudflareworkers-original.svg" title="cloudflare workers" alt="cloudflare workers" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hyperv/hyperv-original-wordmark.svg" title="Hyper-V" alt="Hyper-V" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" title="Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ceph.svg" title="Ceph" alt="Ceph" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
