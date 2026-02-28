@@ -27,8 +27,8 @@ SIEM · XDR · and many more 🚀
 
 </div>
 <br>
-$\color{#D29922}\textsf{\Large\&#x26A0;\kern{0.2cm}\normalsize Warning}$
-<span style="background:#fff; padding:6px; border-radius:8px;">      
+
+<span style="background:#fff; display:inline-block>      
 <div>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-11.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
