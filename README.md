@@ -27,7 +27,7 @@ SIEM · XDR · and many more 🚀
 
 </div>
 <br>
-
+__Warning__
 <span style="background:#fff; padding:6px; border-radius:8px;">      
 <div>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
