@@ -28,6 +28,20 @@ SIEM · XDR · and many more 🚀
 </div>
 <br>
 
+<svg fill="none" viewBox="0 0 800 350" width="800" height="350" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        body {
+          font-family:'Roboto';
+          background-color: #131417;  
+        }
+        .div {
+          background-color:#fff;
+        }
+      </style>
+
 <div class="background: white;">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-11.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
@@ -169,6 +183,10 @@ SIEM · XDR · and many more 🚀
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg" title="" alt="" width="40" height="40"/>&nbsp;
 
 </div>
+
+</div>
+  </foreignObject>
+</svg>
 
 ---
 
