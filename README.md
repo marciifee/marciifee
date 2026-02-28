@@ -28,6 +28,7 @@ SIEM · XDR · and many more 🚀
 </div>
 <br>
 
+<div>
 <span style="background:#fff;">      
 
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -170,6 +171,7 @@ SIEM · XDR · and many more 🚀
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg" title="" alt="" width="40" height="40"/>&nbsp;
 
 </span>
+</div>
 
 ---
 
