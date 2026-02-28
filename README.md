@@ -28,7 +28,11 @@ SIEM · XDR · and many more 🚀
 </div>
 <br>
 
-<div bgcolor="#ffffff">
+<table align="center" bgcolor="#ffffff">
+  <tr>
+    <td>
+      <div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-11.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
@@ -168,6 +172,9 @@ SIEM · XDR · and many more 🚀
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Preo" alt="Premiere Pro" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
+</td>
+  </tr>
+</table>
 
 ---
 
