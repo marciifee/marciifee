@@ -36,26 +36,25 @@ SIEM · XDR · and many more 🚀
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fedora.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kali-linux.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/talos.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/talos.svg" title="TalOS" alt="TalOS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png" title="VMware vCenter" alt="VMware vCenter" width="40" height="40"/>&nbsp;
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-workstation.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-workstation.svg" title="VMware Workstation" alt="VMware Workstation" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudflare.svg" title="cloudflare" alt="cloudflare" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudflare-pages.svg" title="cloudflare pages" alt="cloudflare pages" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflareworkers/cloudflareworkers-original-wordmark.svg" title="cloudflare workers" alt="cloudflare workers" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hyperv/hyperv-original-wordmark.svg" title="Hyper-V" alt="Hyper-V" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" title="Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp;
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ceph.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ceph.svg" title="Ceph" alt="Ceph" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-container-service.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-virtual-desktop.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-vnet.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-container-service.svg" title="Azure Container" alt="Azure Container" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-virtual-desktop.svg" title="Azure VDI" alt="Azure VDI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ovh.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ovh.svg" title="OVH" alt="OVH" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik-proxy.svg" title="traefik proxy" alt="traefik proxy" width="40" height="40"/>&nbsp;
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" title="Caddy Proxy" alt="Caddy Proxy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
@@ -76,7 +75,7 @@ SIEM · XDR · and many more 🚀
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mikrotik.svg" title="MikroTik" alt="MikroTik" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aruba.svg" title="HP Aruba" alt="HP Aruba" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubiquiti-unifi.svg" title="UniFi" alt="UniFi" width="40" height="40"/>&nbsp;
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opnsense.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opnsense.svg" title="opnSense" alt="opnSense" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cloudflare-zero-trust.png" title="Cloudflare ZTNA" alt="Cloudflare ZTNA" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudpanel.svg" title="CloudPanel" alt="CloudPanel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -101,78 +100,82 @@ SIEM · XDR · and many more 🚀
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="Azure SQL"  alt="Azure SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/memcached/memcached-plain.svg" title="memcached"  alt="memcached" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redis.svg" title="redis"  alt="redis" width="40" height="40"/>&nbsp;
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chevereto.svg
-  
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mqtt.svg" title="MQTT" alt="MQTT" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chevereto.svg" title="chevereto" alt="chevereto" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg" title="Nano" alt="Nano" width="40" height="40"/>
-
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/>
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/samba-server.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/draw-io.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/excalidraw.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docmost.png
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/brave.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bitwarden.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vaultwarden.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cryptomator.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/guacamole.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kasm-workspaces.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailjet.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mastodon.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rustdesk.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mobaxterm.png" title="Mobaxterm" alt="Mobaxterm" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/samba-server.svg" title="Samba Server" alt="Samba Server" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jellyfin.svg" title="Jellyfin" alt="Jellyfin" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/draw-io.svg" title="Draw.io" alt="Draw.io" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/excalidraw.svg" title="Excalidraw" alt="Excalidraw" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docmost.png" title="Docmost" alt="Docmost" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/brave.svg" title="Brave" alt="Brave" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bitwarden.svg" title="Bitwarden" alt="Bitwarden" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vaultwarden.svg" title="Vaultwarden" alt="Vaultwarden" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cryptomator.svg" title="Cryptomator" alt="Cryptomator" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/guacamole.svg" title="Guacamole" alt="Guacamole" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kasm-workspaces.svg" title="KASM Workspace" alt="KASM Workspace" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailjet.svg" title="Mailjet SMTP-Relay" alt="Mailjet SMTP-Relay" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mastodon.svg" title="Mastodon" alt="Mastodon" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rustdesk.svg" title="Rustdesk" alt="Rustdesk" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" title="Nvidia CUDA" alt="Nvidia CUDA" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" title="Ollama" alt="Ollama" width="40" height="40"/>&nbsp;
 
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/crowdsec.svg" title="Crowdsec" alt="Crowdsec" width="40" height="40"/>&nbsp;
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/burpsuite.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/caldera.png
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/greenbone.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virustotal.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-defender.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/web-check-dark.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/healthchecks.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptime-kuma.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/security-onion-dark.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/matomo.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/medama.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/patchmon.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/scanopy.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-vpn.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/it-tools-light.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/it-tools.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kleopatra.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lets-encrypt.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/phpmyadmin.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/phpldapadmin.png
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmenu.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xpipe.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/webdav.png
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ipfs-light.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-mail.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-exchange.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-intune.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-365-admin-center.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-admin.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/burpsuite.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/caldera.png
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/greenbone.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virustotal.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-defender.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/web-check-dark.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/healthchecks.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptime-kuma.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fleetdm.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/security-onion-dark.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/matomo.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/medama.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/patchmon.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/scanopy.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-vpn.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/it-tools-light.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/it-tools.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kleopatra.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lets-encrypt.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/phpmyadmin.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/phpldapadmin.png
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmenu.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xpipe.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/webdav.png
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ipfs-light.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-mail.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-exchange.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-intune.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-365-admin-center.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-admin.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-cloud-platform.svg
   
   
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sunshine.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sunshine.svg
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adobe.svg" title="Adobe" alt="Adobe" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" alt="Photoshop" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="Adobe After Effects" alt="After Effects" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Preo" alt="Premiere Pro" width="40" height="40"/>
-  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg
+  
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg
 </div>
 
 ---
