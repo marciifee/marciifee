@@ -28,13 +28,12 @@ SIEM · XDR · and many more 🚀
 </div>
 <br>
 
-<div>     
-
+<div>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-11.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apple-alt.svg" title="macOS" alt="macOS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fedora.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;  
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fedora.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kali-linux.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/talos.svg" title="TalOS" alt="TalOS" width="40" height="40"/>&nbsp;
