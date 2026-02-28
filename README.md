@@ -28,11 +28,7 @@ SIEM · XDR · and many more 🚀
 </div>
 <br>
 
-<rect 
-  width="80"
-  height="80"
-  fill="white" />
-<div>
+<div class="background: white;">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-11.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
