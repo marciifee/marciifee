@@ -102,7 +102,7 @@ SIEM · XDR · and many more 🚀
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chevereto.svg" title="chevereto" alt="chevereto" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://pb.dashboardicons.com/api/files/community_gallery/ncyd4uck5ixllgk/powershell_1_7r3uta7u6y.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg" title="Nano" alt="Nano" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg" title="Nano" alt="Nano" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/filezilla.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp;
@@ -114,7 +114,7 @@ SIEM · XDR · and many more 🚀
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docmost.png" title="Docmost" alt="Docmost" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/triliumnext.svg" title="Triliumnext" alt="Triliumnext" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/brave.svg" title="Brave" alt="Brave" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bitwarden.svg" title="Bitwarden" alt="Bitwarden" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bitwarden.svg" title="Bitwarden" alt="Bitwarden" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vaultwarden.svg" title="Vaultwarden" alt="Vaultwarden" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cryptomator.svg" title="Cryptomator" alt="Cryptomator" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/guacamole.svg" title="Guacamole" alt="Guacamole" width="40" height="40"/>&nbsp;
@@ -141,7 +141,7 @@ SIEM · XDR · and many more 🚀
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/matomo.svg" title="matomo" alt="matomo" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/medama.svg" title="medama" alt="medama" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/patchmon.svg" title="patchmon" alt="patchmon" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/scanopy.svg" title="scanopy" alt="scanopy" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/scanopy.svg" title="scanopy" alt="scanopy" width="40" height="40" href="https://scanopy.net/" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-vpn.svg" title="proton vpn" alt="proton vpn" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" title="wireguard" alt="wireguard" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/it-tools-light.svg" title="" alt="" width="40" height="40"/>&nbsp;
