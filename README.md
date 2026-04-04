@@ -82,7 +82,7 @@ SIEM · XDR · and many more 🚀
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nodejs.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nodejs.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wordpress.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -121,7 +121,7 @@ SIEM · XDR · and many more 🚀
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kasm-workspaces.svg" title="KASM Workspace" alt="KASM Workspace" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailjet.svg" title="Mailjet SMTP-Relay" alt="Mailjet SMTP-Relay" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mastodon.svg" title="Mastodon" alt="Mastodon" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rustdesk.svg" title="Rustdesk" alt="Rustdesk" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rustdesk.svg" title="Rustdesk" alt="Rustdesk" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" title="Nvidia CUDA" alt="Nvidia CUDA" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" title="Ollama" alt="Ollama" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/crowdsec.svg" title="Crowdsec" alt="Crowdsec" width="40" height="40"/>&nbsp;
@@ -144,12 +144,13 @@ SIEM · XDR · and many more 🚀
   <a href="https://scanopy.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/scanopy.svg" title="scanopy" alt="scanopy" width="40" height="40"/></a>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-vpn.svg" title="proton vpn" alt="proton vpn" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" title="wireguard" alt="wireguard" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/it-tools-light.svg" title="" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/it-tools.svg" title="it-tools" alt="it-tools" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/it-tools-light.svg" title="" alt="" width="40" height="40"/>&nbsp; -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/it-tools.svg" title="it-tools" alt="it-tools" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kleopatra.svg" title="kleopatra" alt="kleopatra" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lets-encrypt.svg" title="" alt="" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/phpmyadmin.svg" title="phpmyadmin" alt="phpmyadmin" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/phpldapadmin.png" title="phpldapadmin" alt="phpldapadmin" width="40" height="40"/>&nbsp;
+  <a href=["https://phpipam.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/phpipam.webp" title="phpIPAM" alt="phpIPAM" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmenu.svg" title="proxmen" alt="proxmen" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xpipe.svg" title="xpipe" alt="xpipe" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/webdav.png" title="webDAV" alt="webDAV" width="40" height="40"/>&nbsp;
