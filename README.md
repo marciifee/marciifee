@@ -169,7 +169,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://infisical.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/infisical.svg" title="infisical" alt="infisical" width="40" height="40"/></a>&nbsp;
   <a href="https://komo.do/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/komodo.svg" title="komodo" alt="komodo" width="40" height="40"/></a>&nbsp;
   <a href="https://checkcle.io/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/check-cle.svg" title="CheckCle" alt="CheckCle" width="40" height="40"/></a>&nbsp;
-  
   <a href="https://www.resilio.com/sync/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/resiliosync.svg" title="Resiliosync" alt="Resiliosync" width="40" height="40"/></a>&nbsp;
   <a href="https://technitium.com/dns/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/technitium.webp" title="technitium" alt="technitium" width="40" height="40"/></a>&nbsp;
   <a href="https://anubis.techaro.lol/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/anubis.webp" title="anubis" alt="anubis" width="40" height="40"/></a>&nbsp;
@@ -182,9 +181,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://github.com/mkdocs/mkdocshttps://github.com/mkdocs/mkdocs" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mkdocs.svg" title="mkdocs" alt="mkdocs" width="40" height="40"/></a>&nbsp;
   <a href="https://penpot.app/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot.svg" title="penpot" alt="penpot" width="40" height="40"/></a>&nbsp;
   <a href="https://podman.io/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/podman.svg" title="podman" alt="podman" width="40" height="40"/></a>&nbsp;
-    
   <a href="https://www.supermicro.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg" title="Supermicro" alt="Supermicro" width="40" height="40"/></a>&nbsp;
-  
   <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rustdesk.svg" title="Rustdesk" alt="Rustdesk" width="40" height="40"/>&nbsp; -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptime-kuma.svg" title="uptime kuma" alt="uptime kuma" width="40" height="40"/>&nbsp; -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/webdav.png" title="webDAV" alt="webDAV" width="40" height="40"/>&nbsp; -->
