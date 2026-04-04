@@ -155,7 +155,7 @@ SIEM · XDR · and many more 🚀
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmenu.svg" title="proxmen" alt="proxmen" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xpipe.svg" title="xpipe" alt="xpipe" width="40" height="40"/>&nbsp;
   <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/webdav.png" title="webDAV" alt="webDAV" width="40" height="40"/>&nbsp; -->
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ipfs-light.svg" title="ipfs" alt="ipfs" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ipfs-light.svg" title="ipfs" alt="ipfs" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton.svg" title="proton" alt="proton" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-mail.svg" title="proton mail" alt="proton mail" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-exchange.svg" title="Microsoft Exchange Online" alt="Microsoft Exchange Online" width="40" height="40"/>&nbsp;
