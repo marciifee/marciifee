@@ -168,6 +168,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.bastillion.io/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/bastillion.png" title="Bastillion" alt="Bastillion" width="40" height="40"/></a>&nbsp;
   <a href="https://infisical.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/infisical.svg" title="infisical" alt="infisical" width="40" height="40"/></a>&nbsp;
   <a href="https://komo.do/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/komodo.svg" title="komodo" alt="komodo" width="40" height="40"/></a>&nbsp;
+  <a href="https://checkcle.io/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/check-cle.svg" title="CheckCle" alt="CheckCle" width="40" height="40"/></a>&nbsp;
   <a href="https://www.supermicro.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg" title="Supermicro" alt="Supermicro" width="40" height="40"/></a>&nbsp;
   
   <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rustdesk.svg" title="Rustdesk" alt="Rustdesk" width="40" height="40"/>&nbsp; -->
