@@ -165,7 +165,9 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="Adobe After Effects" alt="After Effects" width="40" height="40"/></a>&nbsp;
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Pro" alt="Premiere Pro" width="40" height="40"/></a>&nbsp;
   <a href="https://www.obsidian.md" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/obsidian.svg" title="Obsidian" alt="Obsidian" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.bastillion.io/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/bastillion.png" title="Bastillion" alt="Bastillion" width="40" height="40"/></a>&nbsp;
   <a href="https://www.supermicro.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg" title="Supermicro" alt="Supermicro" width="40" height="40"/></a>&nbsp;
+  
   <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rustdesk.svg" title="Rustdesk" alt="Rustdesk" width="40" height="40"/>&nbsp; -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptime-kuma.svg" title="uptime kuma" alt="uptime kuma" width="40" height="40"/>&nbsp; -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/webdav.png" title="webDAV" alt="webDAV" width="40" height="40"/>&nbsp; -->
