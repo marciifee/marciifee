@@ -68,12 +68,12 @@ SIEM · XDR · and many more 🚀
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/logstash/logstash-original.svg" title="Logstash" alt="Logstash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp;  
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" title="grafana" alt="grafana" width="60" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prometheus.svg" title="prometheus" alt="prometheus" width="60" height="40"/>&nbsp;
   <img src="https://geek-cookbook.funkypenguin.co.nz/images/keepalived.png" title="Keepalived" alt="Keepalived" width="60" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" title="Cisco" alt="Cisco" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mikrotik.svg" title="MikroTik" alt="MikroTik" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aruba.svg" title="HP Aruba" alt="HP Aruba" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aruba.svg" title="HP Aruba" alt="HP Aruba" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubiquiti-unifi.svg" title="UniFi" alt="UniFi" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opnsense.svg" title="opnSense" alt="opnSense" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cloudflare-zero-trust.png" title="Cloudflare ZTNA" alt="Cloudflare ZTNA" width="40" height="40"/>&nbsp;
