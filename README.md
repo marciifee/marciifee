@@ -172,16 +172,16 @@ SIEM · XDR · and many more 🚀
   
   <a href="https://www.resilio.com/sync/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/resiliosync.svg" title="Resiliosync" alt="Resiliosync" width="40" height="40"/></a>&nbsp;
   <a href="https://technitium.com/dns/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/technitium.webp" title="technitium" alt="technitium" width="40" height="40"/></a>&nbsp;
-  <a href="" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/anubis.webp" title="anubis" alt="anubis" width="40" height="40"/></a>&nbsp;
-  <a href="" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cockpit.svg" title="cockpit" alt="cockpit" width="40" height="40"/></a>&nbsp;
-  <a href="" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dashboard-icons.svg" title="dashboard icons" alt="dashboard icons" width="40" height="40"/></a>&nbsp;
-  <a href="" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/freeipa.svg" title="freeipa" alt="freeipa" width="40" height="40"/></a>&nbsp;
-  <a href="" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/helper-scripts.webp" title="helper scripts" alt="helper scripts" width="40" height="40"/></a>&nbsp;
-  <a href="" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/influxdb.svg" title="influxdb" alt="influxdb" width="40" height="40"/></a>&nbsp;
-  <a href="" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mail-archiver.svg" title="mail archiver" alt="mail archiver" width="40" height="40"/></a>&nbsp;
-  <a href="" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mkdocs.svg" title="mkdocs" alt="mkdocs" width="40" height="40"/></a>&nbsp;
-  <a href="" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot.svg" title="penpot" alt="penpot" width="40" height="40"/></a>&nbsp;
-  <a href="" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/podman.svg" title="podman" alt="podman" width="40" height="40"/></a>&nbsp;
+  <a href="https://anubis.techaro.lol/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/anubis.webp" title="anubis" alt="anubis" width="40" height="40"/></a>&nbsp;
+  <a href="https://cockpit-project.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cockpit.svg" title="cockpit" alt="cockpit" width="40" height="40"/></a>&nbsp;
+  <a href="https://dashboardicons.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dashboard-icons.svg" title="dashboard icons" alt="dashboard icons" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.freeipa.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/freeipa.svg" title="freeipa" alt="freeipa" width="40" height="40"/></a>&nbsp;
+  <a href="https://community-scripts.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/helper-scripts.webp" title="helper scripts" alt="helper scripts" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.influxdata.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/influxdb.svg" title="influxdb" alt="influxdb" width="40" height="40"/></a>&nbsp;
+  <a href="https://github.com/s1t5/mail-archiver" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mail-archiver.svg" title="mail archiver" alt="mail archiver" width="40" height="40"/></a>&nbsp;
+  <a href="https://github.com/mkdocs/mkdocshttps://github.com/mkdocs/mkdocs" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mkdocs.svg" title="mkdocs" alt="mkdocs" width="40" height="40"/></a>&nbsp;
+  <a href="https://penpot.app/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot.svg" title="penpot" alt="penpot" width="40" height="40"/></a>&nbsp;
+  <a href="https://podman.io/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/podman.svg" title="podman" alt="podman" width="40" height="40"/></a>&nbsp;
     
   <a href="https://www.supermicro.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg" title="Supermicro" alt="Supermicro" width="40" height="40"/></a>&nbsp;
   
