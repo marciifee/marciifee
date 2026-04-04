@@ -53,6 +53,7 @@ SIEM · XDR · and many more 🚀
   <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-virtual-desktop.svg" title="Azure VDI" alt="Azure VDI" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ovh.svg" title="OVH" alt="OVH" width="40" height="40"/>&nbsp;
+  <a href="https://opencloud.eu"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/open-cloud.svg" title="Open Cloud" alt="Open Cloud" width="40" height="40"/></a>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik-proxy.svg" title="traefik proxy" alt="traefik proxy" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" title="Caddy Proxy" alt="Caddy Proxy" width="40" height="40"/>&nbsp;
   <a href="https://coredns.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/coredns.svg" title="CoreDNS" alt="CoreDNS" width="40" height="40"/></a>&nbsp;
@@ -101,6 +102,7 @@ SIEM · XDR · and many more 🚀
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redis.svg" title="redis"  alt="redis" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mqtt.svg" title="MQTT" alt="MQTT" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chevereto.svg" title="chevereto" alt="chevereto" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openproject.svg" title="open project" alt="open project" width="40" height="40"/>&nbsp;
   <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; -->
   <img src="https://pb.dashboardicons.com/api/files/community_gallery/ncyd4uck5ixllgk/powershell_1_7r3uta7u6y.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg" title="Nano" alt="Nano" width="40" height="40"/>&nbsp; -->
