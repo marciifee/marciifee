@@ -21,12 +21,7 @@ Kubernetes · Docker · Microsoft 365 · Microsoft Azure · AWS · Google Worksp
 Active Directory / Entra ID · Python · PHP · Proxmox · Wazuh · OpenVAS · Zero Trust ·  
 SIEM · XDR · and many more 🚀  
 
-<h3 align="center">Tools2</h3>
-  
-### Tools
-
-</div>
-<br>
+<h3 align="center">Tools</h3>
 
 <p align="left">
 <a href="https://www.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" width="40" height="40"/></a>
