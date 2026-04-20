@@ -28,7 +28,6 @@ SIEM · XDR · and many more 🚀
 </div>
 <br>
 
-
 <div>
   <a href="https://www.kernel.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-11.png" title="Windows" alt="Windows" width="40" height="40"/></a>&nbsp;
