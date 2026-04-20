@@ -29,7 +29,7 @@ SIEM · XDR · and many more 🚀
 <br>
 
 <div>
-  <a href="https://www.kernel.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.kernel.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-11.png" title="Windows" alt="Windows" width="40" height="40"/></a>&nbsp;
   <a href="https://ubuntu.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/></a>&nbsp;
   <a href="https://www.apple.com/macos/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apple-alt.svg" title="macOS" alt="macOS" width="40" height="40"/></a>&nbsp;
@@ -38,21 +38,14 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.kali.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kali-linux.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/></a>&nbsp;
   <a href="https://www.debian.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" title="Debian" alt="Debian" width="40" height="40"/></a>&nbsp;
   <a href="https://www.talos.dev/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/talos.svg" title="TalOS" alt="TalOS" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="https://www.vmware.com/products/vcenter-server.html" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png" title="VMware vCenter" alt="VMware vCenter" width="40" height="40"/></a>&nbsp; -->
-  <!-- <a href="https://www.vmware.com/products/workstation-pro.html" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-workstation.svg" title="VMware Workstation" alt="VMware Workstation" width="40" height="40"/></a>&nbsp; -->
   <a href="https://www.virtualbox.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virtualbox.svg" title="Oracle VirtualBox" alt="Oracle VirtualBox" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="https://www.arduino.cc/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arduino.svg" title="arduino" alt="arduino" width="40" height="40"/></a>&nbsp; -->
   <a href="https://www.cloudflare.com/" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="cloudflare" alt="cloudflare" height="40"/></a>&nbsp;
   <a href="https://pages.cloudflare.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudflare-pages.svg" title="cloudflare pages" alt="cloudflare pages" height="40"/></a>&nbsp;
   <a href="https://workers.cloudflare.com/" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/cloudflareworkers/cloudflareworkers-original.svg" title="cloudflare workers" alt="cloudflare workers" width="40" height="40"/></a>&nbsp;
   <a href="https://www.proxmox.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" title="Proxmox" alt="Proxmox" width="40" height="40"/></a>&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ceph.svg" title="Ceph" alt="Ceph" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-container-service.svg" title="Azure Container" alt="Azure Container" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-virtual-desktop.svg" title="Azure VDI" alt="Azure VDI" width="40" height="40"/>&nbsp; -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws.svg" title="AWS" alt="AWS" width="40" height="40"/></a>&nbsp;
   <a href="https://azure.microsoft.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-azure.svg" title="Azure" alt="Azure" width="40" height="40"/></a>&nbsp;
   <a href="https://cloud.google.com/" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="https://www.ovhcloud.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ovh.svg" title="OVH" alt="OVH" width="40" height="40"/></a>&nbsp; -->
   <a href="https://opencloud.eu" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/open-cloud.svg" title="Open Cloud" alt="Open Cloud" width="40" height="40"/></a>&nbsp;
   <a href="https://traefik.io/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik-proxy.svg" title="traefik proxy" alt="traefik proxy" width="40" height="40"/></a>&nbsp;
   <a href="https://caddyserver.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" title="Caddy Proxy" alt="Caddy Proxy" width="40" height="40"/></a>&nbsp;
@@ -71,7 +64,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.elastic.co/kibana/" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" width="40" height="40"/></a>&nbsp; 
   <a href="https://www.jetbrains.com/de-de/youtrack/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jetbrains-youtrack.svg" title="You Track" alt="You Track" width="40" height="40"/></a>&nbsp; 
   <a href="https://grafana.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" title="grafana" alt="grafana" width="40" height="40"/></a>&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prometheus.svg" title="prometheus" alt="prometheus" width="60" height="40"/>&nbsp; -->
   <a href="https://www.keepalived.org/" target="_blank" rel="noopener"><img src="https://geek-cookbook.funkypenguin.co.nz/images/keepalived.png" title="Keepalived" alt="Keepalived" width="60" height="40"/></a>&nbsp;
   <a href="https://www.cisco.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" title="Cisco" alt="Cisco" width="40" height="40"/></a>&nbsp;
   <a href="https://mikrotik.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mikrotik.svg" title="MikroTik" alt="MikroTik" width="40" height="40"/></a>&nbsp;
@@ -79,19 +71,13 @@ SIEM · XDR · and many more 🚀
   <a href="https://opnsense.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opnsense.svg" title="opnSense" alt="opnSense" width="40" height="40"/></a>&nbsp;
   <a href="https://www.cloudflare.com/products/zero-trust/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cloudflare-zero-trust.png" title="Cloudflare ZTNA" alt="Cloudflare ZTNA" width="40" height="40"/></a>&nbsp;
   <a href="https://www.cloudpanel.io/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudpanel.svg" title="CloudPanel" alt="CloudPanel" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="https://isocpp.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cpp.svg" title="C++" alt="C++" width="40" height="40"/></a>&nbsp; -->
   <a href="https://opencv.org/" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/></a>&nbsp;
   <a href="https://react.dev/" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
   <a href="https://wordpress.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wordpress.svg" title="wordpress" alt="wordpress" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp; -->
-  <!-- <a href="https://html.spec.whatwg.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp; -->
   <a href="https://www.php.net/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/php.svg" title="php" alt="php" width="40" height="40"/></a>&nbsp;
   <a href="https://www.json.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/json.svg" title="Json" alt="Json" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp; -->
-  <!-- <a href="https://jquery.com/" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/></a>&nbsp; -->
-  <!-- <a href="https://www.mysql.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp; -->
   <a href="https://mariadb.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mariadb.svg" title="MariaDB"  alt="MariaDB" width="40" height="40"/></a>&nbsp;
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postgresql.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/></a>&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mongodb.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/></a>&nbsp;
@@ -102,11 +88,8 @@ SIEM · XDR · and many more 🚀
   <a href="https://chevereto.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chevereto.svg" title="chevereto" alt="chevereto" width="40" height="40"/></a>&nbsp;
   <a href="https://immich.app/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/immich.svg" title="immich" alt="immich" width="40" height="40"/></a>&nbsp;
   <a href="https://www.openproject.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openproject.svg" title="open project" alt="open project" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noopener"><img src="https://pb.dashboardicons.com/api/files/community_gallery/ncyd4uck5ixllgk/powershell_1_7r3uta7u6y.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/></a>&nbsp; -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/></a>&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; -->
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="https://filezilla-project.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/filezilla.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/></a>&nbsp; -->
   <a href="https://mobaxterm.mobatek.net/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mobaxterm.png" title="Mobaxterm" alt="Mobaxterm" width="40" height="40"/></a>&nbsp;
   <a href="https://www.samba.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/samba-server.svg" title="Samba Server" alt="Samba Server" width="40" height="40"/></a>&nbsp;
   <a href="https://jellyfin.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jellyfin.svg" title="Jellyfin" alt="Jellyfin" width="40" height="40"/></a>&nbsp;
@@ -140,7 +123,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://medama.io/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/medama.svg" title="medama" alt="medama" width="40" height="40"/></a>&nbsp;
   <a href="https://patchmon.io/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/patchmon.svg" title="patchmon" alt="patchmon" width="40" height="40"/></a>&nbsp;
   <a href="https://scanopy.net/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/scanopy.svg" title="scanopy" alt="scanopy" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="https://protonvpn.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-vpn.svg" title="proton vpn" alt="proton vpn" width="40" height="40"/></a>&nbsp; -->
   <a href="https://www.wireguard.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" title="wireguard" alt="wireguard" width="40" height="40"/></a>&nbsp;
   <a href="https://www.gpg4win.org/about.html" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kleopatra.svg" title="kleopatra" alt="kleopatra" width="40" height="40"/></a>&nbsp;
   <a href="https://letsencrypt.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lets-encrypt.svg" title="Let's Encrypt" alt="Let's Encrypt" width="40" height="40"/></a>&nbsp;
@@ -153,13 +135,9 @@ SIEM · XDR · and many more 🚀
   <a href="https://proton.me/mail" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-mail.svg" title="proton mail" alt="proton mail" width="40" height="40"/></a>&nbsp;
   <a href="https://www.microsoft.com/en-us/microsoft-365/exchange/email" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-exchange.svg" title="Microsoft Exchange Online" alt="Microsoft Exchange Online" width="40" height="40"/></a>&nbsp;
   <a href="https://www.microsoft.com/en-us/security/business/endpoint-management/microsoft-intune" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-intune.svg" title="Microsoft Intune" alt="Microsoft Intune" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="https://admin.microsoft.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-365-admin-center.svg" title="M365 Admin Center" alt="M365 Admin Center" width="40" height="40"/></a>&nbsp; -->
-  <!-- <a href="https://admin.google.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-admin.svg" title="Google Admin" alt="Google Admin" width="40" height="40"/></a>&nbsp; -->
-  <!-- <a href="https://console.cloud.google.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-cloud-platform.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/></a>&nbsp; -->
   <a href="https://www.blender.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/blender.svg" title="Blender" alt="Blender" width="40" height="40"/></a>&nbsp;
   <a href="https://comfyanonymous.github.io/ComfyUI/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg" title="comfyui" alt="comfyui" width="40" height="40"/></a>&nbsp;
   <a href="https://app.getsunshine.net/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sunshine.svg" title="sunshine" alt="sunshine" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="https://www.adobe.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adobe.svg" title="Adobe" alt="Adobe" width="40" height="40"/></a>&nbsp; -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="Adobe After Effects" alt="After Effects" width="40" height="40"/></a>&nbsp;
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noopener"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Pro" alt="Premiere Pro" width="40" height="40"/></a>&nbsp;
@@ -181,10 +159,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://penpot.app/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot.svg" title="penpot" alt="penpot" width="40" height="40"/></a>&nbsp;
   <a href="https://www.cnil.fr/en/privacy-impact-assessment-pia" target="_blank" rel="noopener"><img src="https://www.cnil.fr/sites/default/files/styles/contenu_generique_visuel/public/thumbnails/image/00_logo-1.png?itok=bdT6-lUn" title="Privacy Impact Assessment (PIA)" alt=PIA" width="80" height="80"/></a>&nbsp;
   <a href="https://www.supermicro.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg" title="Supermicro" alt="Supermicro" width="60" height="60"/></a>&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rustdesk.svg" title="Rustdesk" alt="Rustdesk" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptime-kuma.svg" title="uptime kuma" alt="uptime kuma" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/webdav.png" title="webDAV" alt="webDAV" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ipfs-light.svg" title="ipfs" alt="ipfs" width="40" height="40"/>&nbsp; -->
+ 
 </div>
 
 ---
