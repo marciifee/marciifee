@@ -1,8 +1,7 @@
 ### 🌸 Aloha! I'm Marc 👋  
 
 My name is **Marc Langenberg** — I’m an **IT specialist** with a focus on **cybersecurity** and **cloud solutions**, and Founder and technical lead of my creative tech project **CosplayGIF**.  
-I’m currently studying **Bachelor of Science in IT Security** @ Berlin University of Applied Sciences and Technology and also preparing for the **Certified Information Security Specialist (CISS) (CCI) / geprüfter Berufsspezialist in Informationssicherheit (IHK)**, deepening my expertise in secure system architecture and compliance.
-
+I’m currently studying **Bachelor of Science in IT Security** @ Berlin University of Applied Sciences and Technology and also preparing for the **Certified Information Security Specialist (CISS) (CCI)**.
 ---
 
 ### 🎭 About Me  
@@ -26,9 +25,6 @@ SIEM · XDR · and many more 🚀
 
 
 ---
-
-I am still at the beginning of my career, constantly learning, building, and exploring new ideas.
-If you’re interested in collaborations, creative tech, or security projects, feel free to reach out — I’d love to connect! 🚀
 
 ### 🎓 Certifications  
 
