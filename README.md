@@ -21,7 +21,7 @@ Kubernetes · Docker · Microsoft 365 · Microsoft Azure · AWS · Google Worksp
 Active Directory / Entra ID · Python · PHP · Proxmox · Wazuh · OpenVAS · Zero Trust ·  
 SIEM · XDR · and many more 🚀  
 
-<h3 align="center">Tools</h3>
+<h3 align="center">Tools2</h3>
   
 ### Tools
 
