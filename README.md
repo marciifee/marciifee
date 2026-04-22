@@ -22,7 +22,7 @@ Active Directory / Entra ID · Python · PHP · Proxmox · Wazuh · OpenVAS · Z
 SIEM · XDR · and many more 🚀  
 
 <h3 align="center">OS</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" height="40"/></a> 
   <a href="https://www.microsoft.com/windows"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-11.png" title="Windows" alt="Windows" height="40"/></a> 
   <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" title="Ubuntu" alt="Ubuntu" height="40"/></a> 
