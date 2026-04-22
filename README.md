@@ -21,7 +21,7 @@ Kubernetes · Docker · Microsoft 365 · Microsoft Azure · AWS · Google Worksp
 Active Directory / Entra ID · Python · PHP · Proxmox · Wazuh · OpenVAS · Zero Trust ·  
 SIEM · XDR · and many more 🚀  
 
-<h3 align="center">Tools</h3>
+<h3 align="center">OS</h3>
 <p align="left">
   <a href="https://www.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" height="40"/></a> 
   <a href="https://www.microsoft.com/windows"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-11.png" title="Windows" alt="Windows" height="40"/></a> 
@@ -32,6 +32,10 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.kali.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kali-linux.svg" title="Kali Linux" alt="Kali Linux" height="40"/></a> 
   <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" title="Debian" alt="Debian" height="40"/></a> 
   <a href="https://www.talos.dev/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/talos.svg" title="TalOS" alt="TalOS" height="40"/></a> 
+</p>
+  
+<h3 align="center">Tools</h3>
+<p align="left">
   <a href="https://www.virtualbox.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virtualbox.svg" title="Oracle VirtualBox" alt="Oracle VirtualBox" height="40"/></a> 
   <a href="https://www.cloudflare.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" height="40"/></a> 
   <a href="https://pages.cloudflare.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudflare-pages.svg" title="Cloudflare Pages" alt="Cloudflare Pages" height="40"/></a> 
@@ -40,10 +44,8 @@ SIEM · XDR · and many more 🚀
   <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws.svg" title="AWS" alt="AWS" height="40"/></a> 
   <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-azure.svg" title="Microsoft Azure" alt="Microsoft Azure" height="40"/></a> 
   <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" height="40"/></a> 
-  
   <!-- <a href="https://opencloud.eu"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/open-cloud.svg" title="Open Cloud" alt="Open Cloud" height="40"/></a> -->
   <a href="https://cloudreve.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudreve.svg" title="Cloudreve" alt="Cloudreve" height="40"/></a>
-  
   <a href="https://traefik.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik-proxy.svg" title="Traefik Proxy" alt="Traefik Proxy" height="40"/></a> 
   <a href="https://caddyserver.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" title="Caddy Proxy" alt="Caddy Proxy" height="40"/></a> 
   <a href="https://coredns.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/coredns.svg" title="CoreDNS" alt="CoreDNS" height="40"/></a> 
