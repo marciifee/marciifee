@@ -41,6 +41,16 @@ SIEM · XDR · and many more 🚀
   <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" height="40"/></a> 
 </p>
 
+<h3 align="center">Databases</h3>
+<p align="center">
+  <a href="https://mariadb.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mariadb.svg" title="MariaDB" alt="MariaDB" height="40"/></a> 
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" height="40"/></a> 
+  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mongodb.svg" title="MongoDB" alt="MongoDB" height="40"/></a> 
+  <a href="https://www.influxdata.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/influxdb.svg" title="InfluxDB" alt="InfluxDB" height="40"/></a> 
+  <a href="https://memcached.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/memcached/memcached-plain.svg" title="Memcached" alt="Memcached" height="40"/></a> 
+  <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redis.svg" title="Redis" alt="Redis" height="40"/></a> 
+</p>
+
 <h3 align="center">Tools</h3>
 <p align="left">
   <a href="https://www.virtualbox.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virtualbox.svg" title="Oracle VirtualBox" alt="Oracle VirtualBox" height="40"/></a> 
@@ -80,11 +90,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" height="40"/></a> 
   <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/php.svg" title="PHP" alt="PHP" height="40"/></a> 
   <a href="https://www.json.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/json.svg" title="JSON" alt="JSON" height="40"/></a> 
-  <a href="https://mariadb.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mariadb.svg" title="MariaDB" alt="MariaDB" height="40"/></a> 
-  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" height="40"/></a> 
-  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mongodb.svg" title="MongoDB" alt="MongoDB" height="40"/></a> 
-  <a href="https://memcached.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/memcached/memcached-plain.svg" title="Memcached" alt="Memcached" height="40"/></a> 
-  <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redis.svg" title="Redis" alt="Redis" height="40"/></a> 
   <a href="https://mqtt.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mqtt.svg" title="MQTT" alt="MQTT" height="40"/></a> 
   <a href="https://chevereto.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chevereto.svg" title="Chevereto" alt="Chevereto" height="40"/></a> 
   <a href="https://immich.app/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/immich.svg" title="Immich" alt="Immich" height="40"/></a> 
@@ -153,7 +158,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://dashboardicons.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dashboard-icons.svg" title="Dashboard Icons" alt="Dashboard Icons" height="40"/></a> 
   <a href="https://www.freeipa.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/freeipa.svg" title="FreeIPA" alt="FreeIPA" height="40"/></a> 
   <a href="https://community-scripts.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/helper-scripts.webp" title="Helper Scripts" alt="Helper Scripts" height="40"/></a> 
-  <a href="https://www.influxdata.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/influxdb.svg" title="InfluxDB" alt="InfluxDB" height="40"/></a> 
   <a href="https://github.com/s1t5/mail-archiver"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mail-archiver.svg" title="Mail Archiver" alt="Mail Archiver" height="40"/></a> 
   <a href="https://github.com/mkdocs/mkdocs"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mkdocs.svg" title="MkDocs" alt="MkDocs" height="40"/></a> 
   <a href="https://penpot.app/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot.svg" title="Penpot" alt="Penpot" height="40"/></a> 
