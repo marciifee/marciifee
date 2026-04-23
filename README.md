@@ -34,6 +34,16 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.talos.dev/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/talos.svg" title="TalOS" alt="TalOS" height="40"/></a> 
 </p>
 
+<h3 align="center">Hypervisor / Container</h3>
+<p align="center">
+  <a href="https://www.virtualbox.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virtualbox.svg" title="Oracle VirtualBox" alt="Oracle VirtualBox" height="40"/></a> 
+  <a href="https://www.proxmox.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" title="Proxmox" alt="Proxmox" height="40"/></a> 
+  <a href="https://www.portainer.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/portainer-be.svg" title="Portainer" alt="Portainer" height="40"/></a> 
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" title="Docker" alt="Docker" height="40"/></a> 
+  <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubernetes.svg" title="Kubernetes" alt="Kubernetes" height="40"/></a> 
+  <a href="https://k3s.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k3s/k3s-plain-wordmark.svg" title="K3s" alt="K3s" height="40"/></a> 
+</p>
+
 <h3 align="center">Cloud</h3>
 <p align="center">
   <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws.svg" title="AWS" alt="AWS" height="40"/></a> 
@@ -89,11 +99,9 @@ SIEM · XDR · and many more 🚀
 
 <h3 align="center">Tools</h3>
 <p align="left">
-  <a href="https://www.virtualbox.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virtualbox.svg" title="Oracle VirtualBox" alt="Oracle VirtualBox" height="40"/></a> 
   <a href="https://www.cloudflare.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" height="40"/></a> 
   <a href="https://pages.cloudflare.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudflare-pages.svg" title="Cloudflare Pages" alt="Cloudflare Pages" height="40"/></a> 
   <a href="https://workers.cloudflare.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflareworkers/cloudflareworkers-original.svg" title="Cloudflare Workers" alt="Cloudflare Workers" height="40"/></a> 
-  <a href="https://www.proxmox.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" title="Proxmox" alt="Proxmox" height="40"/></a> 
   <a href="https://traefik.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik-proxy.svg" title="Traefik Proxy" alt="Traefik Proxy" height="40"/></a> 
   <a href="https://caddyserver.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" title="Caddy Proxy" alt="Caddy Proxy" height="40"/></a> 
   <a href="https://coredns.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/coredns.svg" title="CoreDNS" alt="CoreDNS" height="40"/></a> 
@@ -101,11 +109,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" title="Nginx" alt="Nginx" height="40"/></a> 
   <a href="https://www.ansible.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible.svg" title="Ansible" alt="Ansible" height="40"/></a> 
   <a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terraform.svg" title="Terraform" alt="Terraform" height="40"/></a> 
-  <a href="https://www.portainer.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/portainer-be.svg" title="Portainer" alt="Portainer" height="40"/></a> 
-  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" title="Docker" alt="Docker" height="40"/></a> 
-  <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubernetes.svg" title="Kubernetes" alt="Kubernetes" height="40"/></a> 
-  <a href="https://k3s.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k3s/k3s-plain-wordmark.svg" title="K3s" alt="K3s" height="40"/></a> 
-  <a href="https://opentofu.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opentofu.svg" title="OpenTofu" alt="OpenTofu" height="40"/></a> 
   <a href="https://www.elastic.co/elasticsearch/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" height="40"/></a> 
   <a href="https://www.elastic.co/logstash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" title="Logstash" alt="Logstash" height="40"/></a> 
   <a href="https://www.elastic.co/kibana/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" height="40"/></a> 
@@ -135,7 +138,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://brave.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/brave.svg" title="Brave" alt="Brave" height="40"/></a> 
   <a href="https://bitwarden.com/help/about-vaultwarden/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vaultwarden.svg" title="Vaultwarden" alt="Vaultwarden" height="40"/></a> 
   <a href="https://guacamole.apache.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/guacamole.svg" title="Apache Guacamole" alt="Apache Guacamole" height="40"/></a> 
-  <a href="https://www.kasmweb.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kasm-workspaces.svg" title="Kasm Workspaces" alt="Kasm Workspaces" height="40"/></a> 
   <a href="https://www.mailjet.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailjet.svg" title="Mailjet SMTP Relay" alt="Mailjet SMTP Relay" height="40"/></a> 
   <a href="https://joinmastodon.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mastodon.svg" title="Mastodon" alt="Mastodon" height="40"/></a> 
   <a href="https://www.nvidia.com/en-us/geforce/technologies/cuda/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" title="Nvidia CUDA" alt="Nvidia CUDA" height="40"/></a> 
@@ -149,7 +151,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.phpmyadmin.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/phpmyadmin.svg" title="phpMyAdmin" alt="phpMyAdmin" height="40"/></a> 
   <a href="http://phpldapadmin.sourceforge.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/phpldapadmin.png" title="phpLDAPadmin" alt="phpLDAPadmin" height="40"/></a> 
   <a href="https://phpipam.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/phpipam.webp" title="phpIPAM" alt="phpIPAM" height="40"/></a> 
-  <a href="https://github.com/mizuka-official/proxmenu"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmenu.svg" title="Proxmenu" alt="Proxmenu" height="40"/></a> 
   <a href="https://xpipe.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xpipe.svg" title="Xpipe" alt="Xpipe" height="40"/></a> 
   <a href="https://proton.me/mail"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-mail.svg" title="Proton Mail" alt="Proton Mail" height="40"/></a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/exchange/email"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-exchange.svg" title="Microsoft Exchange Online" alt="Microsoft Exchange Online" height="40"/></a> 
@@ -171,6 +172,9 @@ SIEM · XDR · and many more 🚀
   <a href="https://github.com/mkdocs/mkdocs"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mkdocs.svg" title="MkDocs" alt="MkDocs" height="40"/></a> 
   <a href="https://penpot.app/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot.svg" title="Penpot" alt="Penpot" height="40"/></a> 
   <a href="https://argoproj.github.io/cd/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/argo-cd.svg" title="Argo CD" alt="Argo CD" height="40"/></a> 
+  <a href="https://opentofu.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opentofu.svg" title="OpenTofu" alt="OpenTofu" height="40"/></a> 
+  <a href="https://www.kasmweb.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kasm-workspaces.svg" title="Kasm Workspaces" alt="Kasm Workspaces" height="40"/></a> 
+  <a href="https://github.com/mizuka-official/proxmenu"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmenu.svg" title="Proxmenu" alt="Proxmenu" height="40"/></a> 
   <a href="https://www.supermicro.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg" title="Supermicro" alt="Supermicro" height="40"/></a>
   </p>
 
