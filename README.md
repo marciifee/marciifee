@@ -95,7 +95,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://memcached.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/memcached/memcached-plain.svg" title="Memcached" alt="Memcached" height="40"/></a> 
   <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redis.svg" title="Redis" alt="Redis" height="40"/></a> 
   <a href="https://graphar.incubator.apache.org/"><img src="https://www.apache.org/logos/res/graphar/default.png" title="Apache GraphAr" alt="Apache GraphAr" height="40"/></a> 
-  <a href="https://hugegraph.apache.org/"><img src="https://repository-images.githubusercontent.com/141376301/9eb1f6dc-de1d-4c67-baaf-b4312a66c11c" title="Apache HugeGraph" alt="Apache HugeGraph" height="40"/></a>
+  <a href="https://hugegraph.apache.org/"><img src="https://private-user-images.githubusercontent.com/38098239/244322561-e02ffaed-4562-486b-ba8f-e68d02bb0ea6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY5MTA4MjQsIm5iZiI6MTc3NjkxMDUyNCwicGF0aCI6Ii8zODA5ODIzOS8yNDQzMjI1NjEtZTAyZmZhZWQtNDU2Mi00ODZiLWJhOGYtZTY4ZDAyYmIwZWE2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDIzVDAyMTUyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlMjMyZGRhMjJhMWI1NjU2ZWNhMzgzZjk1Y2VlNjIyYWM1OTYyZTFlYWE4Yzk1NjlkMTE5MWQ3NjE4MDA4YTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.00i5PGe6rDLrVldW4gkn_Zkhgj6LkrVjQpwMq_q1nXA" title="Apache HugeGraph" alt="Apache HugeGraph" height="40"/></a>
 </p>
 
 <h3 align="center">Webhosting</h3>
