@@ -83,6 +83,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.mailjet.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailjet.svg" title="Mailjet SMTP Relay" alt="Mailjet SMTP Relay" height="40"/></a> 
   <a href="https://joinmastodon.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mastodon.svg" title="Mastodon" alt="Mastodon" height="40"/></a> 
   <a href="https://github.com/s1t5/mail-archiver"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mail-archiver.svg" title="Mail Archiver" alt="Mail Archiver" height="40"/></a> 
+  <a href="https://mailpit.axllent.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailpit.svg" title="Mailpit" alt="Mailpit" height="40"/></a> 
 </p>
 
 <h3 align="center">Databases</h3>
