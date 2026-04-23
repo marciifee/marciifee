@@ -94,6 +94,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.influxdata.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/influxdb.svg" title="InfluxDB" alt="InfluxDB" height="40"/></a> 
   <a href="https://memcached.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/memcached/memcached-plain.svg" title="Memcached" alt="Memcached" height="40"/></a> 
   <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redis.svg" title="Redis" alt="Redis" height="40"/></a> 
+  <a href="https://graphar.incubator.apache.org/"><img src="https://www.apache.org/logos/res/graphar/default.png" title="Apache GraphAr" alt="Apache GraphAr" height="40"/></a> 
 </p>
 
 <h3 align="center">Webhosting</h3>
@@ -189,7 +190,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://mobaxterm.mobatek.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mobaxterm.png" title="MobaXterm" alt="MobaXterm" height="40"/></a> 
   <a href="https://app.diagrams.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/draw-io.svg" title="Draw.io" alt="Draw.io" height="40"/></a> 
   <a href="https://excalidraw.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/excalidraw.svg" title="Excalidraw" alt="Excalidraw" height="40"/></a> 
-  <a href="https://graphar.incubator.apache.org/"><img src="https://www.apache.org/logos/res/graphar/default.png" title="Apache GraphAr" alt="Apache GraphAr" height="40"/></a> 
   <a href="https://docmost.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docmost.png" title="Docmost" alt="Docmost" height="40"/></a> 
   <a href="https://github.com/mkdocs/mkdocs"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mkdocs.svg" title="MkDocs" alt="MkDocs" height="40"/></a> 
   <a href="https://triliumnext.github.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/triliumnext.svg" title="TriliumNext" alt="TriliumNext" height="40"/></a> 
