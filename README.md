@@ -110,6 +110,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://app.getsunshine.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sunshine.svg" title="Sunshine" alt="Sunshine" height="40"/></a>
   <a href="https://www.samba.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/samba-server.svg" title="Samba Server" alt="Samba Server" height="40"/></a> 
   <a href="https://www.resilio.com/sync/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/resiliosync.svg" title="Resilio Sync" alt="Resilio Sync" height="40"/></a> 
+  <a href="https://rustfs.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rustfs.svg" title="RustFS" alt="RustFS" height="40"/></a> 
 </p>
 
 <h3 align="center">Monitoring</h3>
