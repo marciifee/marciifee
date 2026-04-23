@@ -42,6 +42,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" title="Docker" alt="Docker" height="40"/></a> 
   <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubernetes.svg" title="Kubernetes" alt="Kubernetes" height="40"/></a> 
   <a href="https://k3s.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k3s/k3s-plain-wordmark.svg" title="K3s" alt="K3s" height="40"/></a> 
+  <a href="https://komo.do/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/komodo.svg" title="Komodo" alt="Komodo" height="40"/></a> 
 </p>
 
 <h3 align="center">Cloud</h3>
@@ -49,6 +50,21 @@ SIEM · XDR · and many more 🚀
   <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws.svg" title="AWS" alt="AWS" height="40"/></a> 
   <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-azure.svg" title="Microsoft Azure" alt="Microsoft Azure" height="40"/></a> 
   <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" height="40"/></a> 
+</p>
+
+<h3 align="center">Network</h3>
+<p align="center">
+  <a href="https://traefik.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik-proxy.svg" title="Traefik Proxy" alt="Traefik Proxy" height="40"/></a> 
+  <a href="https://caddyserver.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" title="Caddy Proxy" alt="Caddy Proxy" height="40"/></a> 
+  <a href="https://coredns.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/coredns.svg" title="CoreDNS" alt="CoreDNS" height="40"/></a> 
+  <a href="https://www.keepalived.org/"><img src="https://geek-cookbook.funkypenguin.co.nz/images/keepalived.png" title="Keepalived" alt="Keepalived" height="40"/></a> 
+  <a href="https://www.cisco.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" title="Cisco" alt="Cisco" height="40"/></a> 
+  <a href="https://mikrotik.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mikrotik.svg" title="MikroTik" alt="MikroTik" height="40"/></a> 
+  <a href="https://ui.com/introduction"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubiquiti-unifi.svg" title="UniFi" alt="UniFi" height="40"/></a> 
+  <a href="https://opnsense.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opnsense.svg" title="OPNsense" alt="OPNsense" height="40"/></a>
+  <a href="https://www.wireguard.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" title="WireGuard" alt="WireGuard" height="40"/></a>
+  <a href="https://technitium.com/dns/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/technitium.webp" title="Technitium" alt="Technitium" height="40"/></a> 
+  <a href="https://phpipam.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/phpipam.webp" title="phpIPAM" alt="phpIPAM" height="40"/></a> 
 </p>
 
 <h3 align="center">Databases</h3>
@@ -102,9 +118,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.cloudflare.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" height="40"/></a> 
   <a href="https://pages.cloudflare.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudflare-pages.svg" title="Cloudflare Pages" alt="Cloudflare Pages" height="40"/></a> 
   <a href="https://workers.cloudflare.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflareworkers/cloudflareworkers-original.svg" title="Cloudflare Workers" alt="Cloudflare Workers" height="40"/></a> 
-  <a href="https://traefik.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik-proxy.svg" title="Traefik Proxy" alt="Traefik Proxy" height="40"/></a> 
-  <a href="https://caddyserver.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" title="Caddy Proxy" alt="Caddy Proxy" height="40"/></a> 
-  <a href="https://coredns.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/coredns.svg" title="CoreDNS" alt="CoreDNS" height="40"/></a> 
   <a href="https://httpd.apache.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache.svg" title="Apache" alt="Apache" height="40"/></a> 
   <a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" title="Nginx" alt="Nginx" height="40"/></a> 
   <a href="https://www.ansible.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible.svg" title="Ansible" alt="Ansible" height="40"/></a> 
@@ -113,12 +126,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.elastic.co/logstash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" title="Logstash" alt="Logstash" height="40"/></a> 
   <a href="https://www.elastic.co/kibana/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" height="40"/></a> 
   <a href="https://www.jetbrains.com/de-de/youtrack/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jetbrains-youtrack.svg" title="YouTrack" alt="YouTrack" height="40"/></a> 
-  <a href="https://grafana.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" title="Grafana" alt="Grafana" height="40"/></a> 
-  <a href="https://www.keepalived.org/"><img src="https://geek-cookbook.funkypenguin.co.nz/images/keepalived.png" title="Keepalived" alt="Keepalived" height="40"/></a> 
-  <a href="https://www.cisco.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" title="Cisco" alt="Cisco" height="40"/></a> 
-  <a href="https://mikrotik.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mikrotik.svg" title="MikroTik" alt="MikroTik" height="40"/></a> 
-  <a href="https://ui.com/introduction"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubiquiti-unifi.svg" title="UniFi" alt="UniFi" height="40"/></a> 
-  <a href="https://opnsense.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opnsense.svg" title="OPNsense" alt="OPNsense" height="40"/></a> 
+  <a href="https://grafana.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" title="Grafana" alt="Grafana" height="40"/></a>  
   <a href="https://www.cloudpanel.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudpanel.svg" title="CloudPanel" alt="CloudPanel" height="40"/></a> 
   <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" height="40"/></a> 
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" title="Python" alt="Python" height="40"/></a> 
@@ -146,11 +154,9 @@ SIEM · XDR · and many more 🚀
   <a href="https://matomo.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/matomo.svg" title="Matomo" alt="Matomo" height="40"/></a> 
   <a href="https://medama.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/medama.svg" title="Medama" alt="Medama" height="40"/></a> 
   <a href="https://patchmon.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/patchmon.svg" title="Patchmon" alt="Patchmon" height="40"/></a> 
-  <a href="https://scanopy.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/scanopy.svg" title="Scanopy" alt="Scanopy" height="40"/></a> 
-  <a href="https://www.wireguard.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" title="WireGuard" alt="WireGuard" height="40"/></a> 
+  <a href="https://scanopy.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/scanopy.svg" title="Scanopy" alt="Scanopy" height="40"/></a>  
   <a href="https://www.phpmyadmin.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/phpmyadmin.svg" title="phpMyAdmin" alt="phpMyAdmin" height="40"/></a> 
   <a href="http://phpldapadmin.sourceforge.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/phpldapadmin.png" title="phpLDAPadmin" alt="phpLDAPadmin" height="40"/></a> 
-  <a href="https://phpipam.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/phpipam.webp" title="phpIPAM" alt="phpIPAM" height="40"/></a> 
   <a href="https://xpipe.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xpipe.svg" title="Xpipe" alt="Xpipe" height="40"/></a> 
   <a href="https://proton.me/mail"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-mail.svg" title="Proton Mail" alt="Proton Mail" height="40"/></a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/exchange/email"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-exchange.svg" title="Microsoft Exchange Online" alt="Microsoft Exchange Online" height="40"/></a> 
@@ -160,9 +166,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" title="Adobe After Effects" alt="Adobe After Effects" height="40"/></a> 
   <a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Pro" alt="Adobe Premiere Pro" height="40"/></a> 
   <a href="https://www.obsidian.md"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/obsidian.svg" title="Obsidian" alt="Obsidian" height="40"/></a> 
-  <a href="https://komo.do/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/komodo.svg" title="Komodo" alt="Komodo" height="40"/></a> 
   <a href="https://checkcle.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/check-cle.svg" title="CheckCle" alt="CheckCle" height="40"/></a> 
-  <a href="https://technitium.com/dns/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/technitium.webp" title="Technitium" alt="Technitium" height="40"/></a> 
   <a href="https://anubis.techaro.lol/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/anubis.webp" title="Anubis" alt="Anubis" height="40"/></a> 
   <a href="https://cockpit-project.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cockpit.svg" title="Cockpit" alt="Cockpit" height="40"/></a> 
   <a href="https://dashboardicons.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dashboard-icons.svg" title="Dashboard Icons" alt="Dashboard Icons" height="40"/></a> 
