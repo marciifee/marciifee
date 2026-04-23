@@ -197,6 +197,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://opentofu.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opentofu.svg" title="OpenTofu" alt="OpenTofu" height="40"/></a> 
   <a href="https://www.kasmweb.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kasm-workspaces.svg" title="Kasm Workspaces" alt="Kasm Workspaces" height="40"/></a> 
   <a href="https://github.com/mizuka-official/proxmenu"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmenu.svg" title="Proxmenu" alt="Proxmenu" height="40"/></a> 
+  <a href="https://graphar.incubator.apache.org/"><img src="https://www.apache.org/logos/res/graphar/default.png" title="Apache GraphAr" alt="Apache GraphAr" height="40"/></a> 
   <a href="https://www.supermicro.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg" title="Supermicro" alt="Supermicro" height="40"/></a>
   </p>
 
