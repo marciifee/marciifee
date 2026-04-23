@@ -92,6 +92,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://cassandra.apache.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-cassandra.svg" title="Apache Cassandra" alt="Apache Cassandra" height="40"/></a>
   <a href="https://neo4j.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/neo4j.svg" title="Neo4j Graph Database" alt="Neo4j Graph Database" height="40"/></a>
   <a href="https://orientdb.dev/"><img src="https://github.com/orientechnologies/orientdb/blob/0c5b8b04fda18e3354ac0e2b014b85165d6ff381/OrientDB_logo.svg" title="OrientDB" alt="OrientDB" height="40"/></a> 
+  <a href="https://memgraph.com/"><img src="https://camo.githubusercontent.com/c10f5389c305ffb19d73fbc01bb0e377e2a703f862d2c78fef19aef2715542a2/68747470733a2f2f75706c6f6164732d73736c2e776562666c6f772e636f6d2f3565376365623039363537613639626461623035346233612f3565376365623039363537613639333761623035346262615f426c61636b5f4f726967696e616c2532305f4c6f676f2e706e67" title="Memgraph" alt="Memgraph" height="40"/></a> 
   <a href="https://www.influxdata.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/influxdb.svg" title="InfluxDB" alt="InfluxDB" height="40"/></a> 
   <a href="https://memcached.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/memcached/memcached-plain.svg" title="Memcached" alt="Memcached" height="40"/></a> 
   <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redis.svg" title="Redis" alt="Redis" height="40"/></a> 
