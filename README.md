@@ -67,6 +67,16 @@ SIEM · XDR · and many more 🚀
   <a href="https://phpipam.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/phpipam.webp" title="phpIPAM" alt="phpIPAM" height="40"/></a> 
 </p>
 
+<h3 align="center">Communication</h3>
+<p align="center">
+  <a href="https://mqtt.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mqtt.svg" title="MQTT" alt="MQTT" height="40"/></a> 
+  <a href="https://proton.me/mail"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-mail.svg" title="Proton Mail" alt="Proton Mail" height="40"/></a> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/exchange/email"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-exchange.svg" title="Microsoft Exchange Online" alt="Microsoft Exchange Online" height="40"/></a> 
+  <a href="https://www.mailjet.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailjet.svg" title="Mailjet SMTP Relay" alt="Mailjet SMTP Relay" height="40"/></a> 
+  <a href="https://joinmastodon.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mastodon.svg" title="Mastodon" alt="Mastodon" height="40"/></a> 
+  <a href="https://github.com/s1t5/mail-archiver"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mail-archiver.svg" title="Mail Archiver" alt="Mail Archiver" height="40"/></a> 
+</p>
+
 <h3 align="center">Databases</h3>
 <p align="center">
   <a href="https://mariadb.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mariadb.svg" title="MariaDB" alt="MariaDB" height="40"/></a> 
@@ -141,6 +151,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.freeipa.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/freeipa.svg" title="FreeIPA" alt="FreeIPA" height="40"/></a> 
   <a href="http://phpldapadmin.sourceforge.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/phpldapadmin.png" title="phpLDAPadmin" alt="phpLDAPadmin" height="40"/></a> 
   <a href="https://anubis.techaro.lol/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/anubis.webp" title="Anubis" alt="Anubis" height="40"/></a> 
+  <a href="https://guacamole.apache.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/guacamole.svg" title="Apache Guacamole" alt="Apache Guacamole" height="40"/></a> 
 </p>
 
 <h3 align="center">Tools</h3>
@@ -152,7 +163,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" title="Python" alt="Python" height="40"/></a> 
   <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" height="40"/></a> 
   <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" height="40"/></a> 
-  <a href="https://mqtt.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mqtt.svg" title="MQTT" alt="MQTT" height="40"/></a> 
   <a href="https://www.openproject.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openproject.svg" title="OpenProject" alt="OpenProject" height="40"/></a> 
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" title="Visual Studio Code" alt="Visual Studio Code" height="40"/></a> 
   <a href="https://developer.apple.com/xcode/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" height="40"/></a> 
@@ -163,14 +173,9 @@ SIEM · XDR · and many more 🚀
   <a href="https://triliumnext.github.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/triliumnext.svg" title="TriliumNext" alt="TriliumNext" height="40"/></a> 
   <a href="https://brave.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/brave.svg" title="Brave" alt="Brave" height="40"/></a> 
   <a href="https://bitwarden.com/help/about-vaultwarden/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vaultwarden.svg" title="Vaultwarden" alt="Vaultwarden" height="40"/></a> 
-  <a href="https://guacamole.apache.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/guacamole.svg" title="Apache Guacamole" alt="Apache Guacamole" height="40"/></a> 
-  <a href="https://www.mailjet.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailjet.svg" title="Mailjet SMTP Relay" alt="Mailjet SMTP Relay" height="40"/></a> 
-  <a href="https://joinmastodon.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mastodon.svg" title="Mastodon" alt="Mastodon" height="40"/></a> 
   <a href="https://www.nvidia.com/en-us/geforce/technologies/cuda/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" title="Nvidia CUDA" alt="Nvidia CUDA" height="40"/></a> 
   <a href="https://ollama.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" title="Ollama" alt="Ollama" height="40"/></a>  
   <a href="https://xpipe.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xpipe.svg" title="Xpipe" alt="Xpipe" height="40"/></a> 
-  <a href="https://proton.me/mail"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-mail.svg" title="Proton Mail" alt="Proton Mail" height="40"/></a> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/exchange/email"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-exchange.svg" title="Microsoft Exchange Online" alt="Microsoft Exchange Online" height="40"/></a> 
   <a href="https://www.blender.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/blender.svg" title="Blender" alt="Blender" height="40"/></a> 
   <a href="https://comfyanonymous.github.io/ComfyUI/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg" title="ComfyUI" alt="ComfyUI" height="40"/></a> 
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" alt="Adobe Photoshop" height="40"/></a> 
@@ -180,7 +185,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://cockpit-project.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cockpit.svg" title="Cockpit" alt="Cockpit" height="40"/></a> 
   <a href="https://dashboardicons.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dashboard-icons.svg" title="Dashboard Icons" alt="Dashboard Icons" height="40"/></a> 
   <a href="https://community-scripts.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/helper-scripts.webp" title="Helper Scripts" alt="Helper Scripts" height="40"/></a> 
-  <a href="https://github.com/s1t5/mail-archiver"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mail-archiver.svg" title="Mail Archiver" alt="Mail Archiver" height="40"/></a> 
   <a href="https://github.com/mkdocs/mkdocs"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mkdocs.svg" title="MkDocs" alt="MkDocs" height="40"/></a> 
   <a href="https://penpot.app/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot.svg" title="Penpot" alt="Penpot" height="40"/></a> 
   <a href="https://argoproj.github.io/cd/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/argo-cd.svg" title="Argo CD" alt="Argo CD" height="40"/></a> 
