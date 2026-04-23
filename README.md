@@ -67,6 +67,14 @@ SIEM · XDR · and many more 🚀
   <a href="https://phpipam.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/phpipam.webp" title="phpIPAM" alt="phpIPAM" height="40"/></a> 
 </p>
 
+<h3 align="center">Automation / IaC</h3>
+<p align="center">
+  <a href="https://www.ansible.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible.svg" title="Ansible" alt="Ansible" height="40"/></a> 
+  <a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terraform.svg" title="Terraform" alt="Terraform" height="40"/></a> 
+  <a href="https://argoproj.github.io/cd/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/argo-cd.svg" title="Argo CD" alt="Argo CD" height="40"/></a> 
+  <a href="https://opentofu.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opentofu.svg" title="OpenTofu" alt="OpenTofu" height="40"/></a> 
+</p>
+
 <h3 align="center">Communication</h3>
 <p align="center">
   <a href="https://mqtt.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mqtt.svg" title="MQTT" alt="MQTT" height="40"/></a> 
@@ -165,8 +173,6 @@ SIEM · XDR · and many more 🚀
 
 <h3 align="center">Tools</h3>
 <p align="left">
-  <a href="https://www.ansible.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible.svg" title="Ansible" alt="Ansible" height="40"/></a> 
-  <a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terraform.svg" title="Terraform" alt="Terraform" height="40"/></a> 
   <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" height="40"/></a> 
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" title="Python" alt="Python" height="40"/></a> 
   <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" height="40"/></a> 
@@ -193,8 +199,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://community-scripts.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/helper-scripts.webp" title="Helper Scripts" alt="Helper Scripts" height="40"/></a> 
   <a href="https://github.com/mkdocs/mkdocs"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mkdocs.svg" title="MkDocs" alt="MkDocs" height="40"/></a> 
   <a href="https://penpot.app/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot.svg" title="Penpot" alt="Penpot" height="40"/></a> 
-  <a href="https://argoproj.github.io/cd/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/argo-cd.svg" title="Argo CD" alt="Argo CD" height="40"/></a> 
-  <a href="https://opentofu.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opentofu.svg" title="OpenTofu" alt="OpenTofu" height="40"/></a> 
   <a href="https://www.kasmweb.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kasm-workspaces.svg" title="Kasm Workspaces" alt="Kasm Workspaces" height="40"/></a> 
   <a href="https://github.com/mizuka-official/proxmenu"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmenu.svg" title="Proxmenu" alt="Proxmenu" height="40"/></a> 
   <a href="https://graphar.incubator.apache.org/"><img src="https://www.apache.org/logos/res/graphar/default.png" title="Apache GraphAr" alt="Apache GraphAr" height="40"/></a> 
