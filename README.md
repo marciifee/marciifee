@@ -102,6 +102,21 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.resilio.com/sync/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/resiliosync.svg" title="Resilio Sync" alt="Resilio Sync" height="40"/></a> 
 </p>
 
+<h3 align="center">Monitoring</h3>
+<p align="center">
+  <a href="https://healthchecks.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/healthchecks.svg" title="Healthchecks" alt="Healthchecks" height="40"/></a>
+  <a href="https://www.elastic.co/elasticsearch/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" height="40"/></a> 
+  <a href="https://www.elastic.co/logstash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" title="Logstash" alt="Logstash" height="40"/></a> 
+  <a href="https://www.elastic.co/kibana/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" height="40"/></a> 
+  <a href="https://grafana.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" title="Grafana" alt="Grafana" height="40"/></a>  
+  <a href="https://fleetdm.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fleetdm.svg" title="FleetDM" alt="FleetDM" height="40"/></a> 
+  <a href="https://matomo.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/matomo.svg" title="Matomo" alt="Matomo" height="40"/></a> 
+  <a href="https://medama.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/medama.svg" title="Medama" alt="Medama" height="40"/></a> 
+  <a href="https://patchmon.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/patchmon.svg" title="Patchmon" alt="Patchmon" height="40"/></a> 
+  <a href="https://scanopy.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/scanopy.svg" title="Scanopy" alt="Scanopy" height="40"/></a> 
+  <a href="https://checkcle.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/check-cle.svg" title="CheckCle" alt="CheckCle" height="40"/></a> 
+</p>
+
 <h3 align="center">Security</h3>
 <p align="center">
   <a href="https://www.cloudflare.com/products/zero-trust/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cloudflare-zero-trust.png" title="Cloudflare Zero Trust" alt="Cloudflare Zero Trust" height="40"/></a>
@@ -116,7 +131,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.virustotal.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virustotal.svg" title="VirusTotal" alt="VirusTotal" height="40"/></a> 
   <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-defender.svg" title="Microsoft Defender for Endpoint XDR" alt="Microsoft Defender for Endpoint XDR" height="40"/></a> 
   <a href="https://web-check.xyz/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/web-check-dark.svg" title="Web Check" alt="Web Check" height="40"/></a> 
-  <a href="https://healthchecks.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/healthchecks.svg" title="Healthchecks" alt="Healthchecks" height="40"/></a>
   <a href="https://securityonion.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/security-onion-dark.svg" title="Security Onion" alt="Security Onion" height="40"/></a> 
   <a href="https://www.gpg4win.org/about.html"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kleopatra.svg" title="Kleopatra" alt="Kleopatra" height="40"/></a> 
   <a href="https://letsencrypt.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lets-encrypt.svg" title="Let's Encrypt" alt="Let's Encrypt" height="40"/></a> 
@@ -124,17 +138,16 @@ SIEM · XDR · and many more 🚀
   <a href="https://infisical.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/infisical.svg" title="Infisical" alt="Infisical" height="40"/></a> 
   <a href="https://www.cnil.fr/en/privacy-impact-assessment-pia"><img src="https://www.cnil.fr/sites/default/files/styles/contenu_generique_visuel/public/thumbnails/image/00_logo-1.png?itok=bdT6-lUn" title="Privacy Impact Assessment" alt="Privacy Impact Assessment" height="40"/></a> 
   <a href="https://www.microsoft.com/en-us/security/business/endpoint-management/microsoft-intune"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-intune.svg" title="Microsoft Intune" alt="Microsoft Intune" height="40"/></a> 
+  <a href="https://www.freeipa.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/freeipa.svg" title="FreeIPA" alt="FreeIPA" height="40"/></a> 
+  <a href="http://phpldapadmin.sourceforge.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/phpldapadmin.png" title="phpLDAPadmin" alt="phpLDAPadmin" height="40"/></a> 
+  <a href="https://anubis.techaro.lol/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/anubis.webp" title="Anubis" alt="Anubis" height="40"/></a> 
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="left">
   <a href="https://www.ansible.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible.svg" title="Ansible" alt="Ansible" height="40"/></a> 
   <a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terraform.svg" title="Terraform" alt="Terraform" height="40"/></a> 
-  <a href="https://www.elastic.co/elasticsearch/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" height="40"/></a> 
-  <a href="https://www.elastic.co/logstash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" title="Logstash" alt="Logstash" height="40"/></a> 
-  <a href="https://www.elastic.co/kibana/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" height="40"/></a> 
   <a href="https://www.jetbrains.com/de-de/youtrack/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jetbrains-youtrack.svg" title="YouTrack" alt="YouTrack" height="40"/></a> 
-  <a href="https://grafana.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" title="Grafana" alt="Grafana" height="40"/></a>  
   <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" height="40"/></a> 
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" title="Python" alt="Python" height="40"/></a> 
   <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" height="40"/></a> 
@@ -154,13 +167,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.mailjet.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailjet.svg" title="Mailjet SMTP Relay" alt="Mailjet SMTP Relay" height="40"/></a> 
   <a href="https://joinmastodon.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mastodon.svg" title="Mastodon" alt="Mastodon" height="40"/></a> 
   <a href="https://www.nvidia.com/en-us/geforce/technologies/cuda/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" title="Nvidia CUDA" alt="Nvidia CUDA" height="40"/></a> 
-  <a href="https://ollama.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" title="Ollama" alt="Ollama" height="40"/></a> 
-  <a href="https://fleetdm.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fleetdm.svg" title="FleetDM" alt="FleetDM" height="40"/></a> 
-  <a href="https://matomo.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/matomo.svg" title="Matomo" alt="Matomo" height="40"/></a> 
-  <a href="https://medama.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/medama.svg" title="Medama" alt="Medama" height="40"/></a> 
-  <a href="https://patchmon.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/patchmon.svg" title="Patchmon" alt="Patchmon" height="40"/></a> 
-  <a href="https://scanopy.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/scanopy.svg" title="Scanopy" alt="Scanopy" height="40"/></a>  
-  <a href="http://phpldapadmin.sourceforge.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/phpldapadmin.png" title="phpLDAPadmin" alt="phpLDAPadmin" height="40"/></a> 
+  <a href="https://ollama.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" title="Ollama" alt="Ollama" height="40"/></a>  
   <a href="https://xpipe.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xpipe.svg" title="Xpipe" alt="Xpipe" height="40"/></a> 
   <a href="https://proton.me/mail"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-mail.svg" title="Proton Mail" alt="Proton Mail" height="40"/></a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/exchange/email"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-exchange.svg" title="Microsoft Exchange Online" alt="Microsoft Exchange Online" height="40"/></a> 
@@ -170,11 +177,8 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" title="Adobe After Effects" alt="Adobe After Effects" height="40"/></a> 
   <a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Pro" alt="Adobe Premiere Pro" height="40"/></a> 
   <a href="https://www.obsidian.md"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/obsidian.svg" title="Obsidian" alt="Obsidian" height="40"/></a> 
-  <a href="https://checkcle.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/check-cle.svg" title="CheckCle" alt="CheckCle" height="40"/></a> 
-  <a href="https://anubis.techaro.lol/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/anubis.webp" title="Anubis" alt="Anubis" height="40"/></a> 
   <a href="https://cockpit-project.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cockpit.svg" title="Cockpit" alt="Cockpit" height="40"/></a> 
   <a href="https://dashboardicons.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dashboard-icons.svg" title="Dashboard Icons" alt="Dashboard Icons" height="40"/></a> 
-  <a href="https://www.freeipa.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/freeipa.svg" title="FreeIPA" alt="FreeIPA" height="40"/></a> 
   <a href="https://community-scripts.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/helper-scripts.webp" title="Helper Scripts" alt="Helper Scripts" height="40"/></a> 
   <a href="https://github.com/s1t5/mail-archiver"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mail-archiver.svg" title="Mail Archiver" alt="Mail Archiver" height="40"/></a> 
   <a href="https://github.com/mkdocs/mkdocs"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mkdocs.svg" title="MkDocs" alt="MkDocs" height="40"/></a> 
