@@ -112,7 +112,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.resilio.com/sync/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/resiliosync.svg" title="Resilio Sync" alt="Resilio Sync" height="40"/></a> 
   <a href="https://rustfs.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rustfs.svg" title="RustFS" alt="RustFS" height="40"/></a> 
   <a href="https://www.meilisearch.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/meilisearch.svg" title="meilisearch" alt="meilisearch" height="40"/></a> 
-  <a href="https://tika.apache.org/"><img src="https://commons.wikimedia.org/wiki/File:Apache_Tika_Logo.svg" title="Apache Tika" alt="Apache Tika" height="40"/></a>
+  <a href="https://tika.apache.org/"><img src="https://tika.apache.org/tika.png" title="Apache Tika" alt="Apache Tika" height="40"/></a>
 </p>
 
 <h3 align="center">Monitoring</h3>
