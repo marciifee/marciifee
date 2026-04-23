@@ -91,7 +91,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" height="40"/></a> 
   <a href="https://cassandra.apache.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-cassandra.svg" title="Apache Cassandra" alt="Apache Cassandra" height="40"/></a>
   <a href="https://neo4j.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/neo4j.svg" title="Neo4j Graph Database" alt="Neo4j Graph Database" height="40"/></a>
-  <a href="https://orientdb.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OrientDB_logo.svg/960px-OrientDB_logo.svg.png" title="OrientDB" alt="OrientDB" height="40"/></a> 
+  <a href="https://orientdb.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/OrientDB_logo.svg" title="OrientDB" alt="OrientDB" height="40"/></a> 
   <a href="https://www.influxdata.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/influxdb.svg" title="InfluxDB" alt="InfluxDB" height="40"/></a> 
   <a href="https://memcached.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/memcached/memcached-plain.svg" title="Memcached" alt="Memcached" height="40"/></a> 
   <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redis.svg" title="Redis" alt="Redis" height="40"/></a> 
