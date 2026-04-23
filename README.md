@@ -100,7 +100,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.json.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/json.svg" title="JSON" alt="JSON" height="40"/></a>   
 </p>
 
-<h3 align="center">Sharing and Streaming</h3>
+<h3 align="center">Storage, Sharing and Streaming</h3>
 <p align="center">
   <!-- <a href="https://opencloud.eu"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/open-cloud.svg" title="Open Cloud" alt="Open Cloud" height="40"/></a> -->
   <a href="https://cloudreve.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudreve.svg" title="Cloudreve" alt="Cloudreve" height="40"/></a>
