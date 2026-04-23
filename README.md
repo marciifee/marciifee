@@ -155,13 +155,14 @@ SIEM · XDR · and many more 🚀
   <a href="https://guacamole.apache.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/guacamole.svg" title="Apache Guacamole" alt="Apache Guacamole" height="40"/></a> 
   <a href="https://www.chainguard.dev/de-DE"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chainguard.svg" title="Chainguard" alt="Chainguard" height="40"/></a> 
   <a href="https://www.certwarden.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cert-warden-light.svg" title="Cert Warden" alt="Cert Warden" height="40"/></a> 
+  <a href="https://bitwarden.com/help/about-vaultwarden/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vaultwarden.svg" title="Vaultwarden" alt="Vaultwarden" height="40"/></a> 
+  <a href="https://www.jetbrains.com/de-de/youtrack/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jetbrains-youtrack.svg" title="YouTrack" alt="YouTrack" height="40"/></a> 
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="left">
   <a href="https://www.ansible.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible.svg" title="Ansible" alt="Ansible" height="40"/></a> 
   <a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terraform.svg" title="Terraform" alt="Terraform" height="40"/></a> 
-  <a href="https://www.jetbrains.com/de-de/youtrack/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jetbrains-youtrack.svg" title="YouTrack" alt="YouTrack" height="40"/></a> 
   <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" height="40"/></a> 
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" title="Python" alt="Python" height="40"/></a> 
   <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" height="40"/></a> 
@@ -175,7 +176,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://docmost.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docmost.png" title="Docmost" alt="Docmost" height="40"/></a> 
   <a href="https://triliumnext.github.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/triliumnext.svg" title="TriliumNext" alt="TriliumNext" height="40"/></a> 
   <a href="https://brave.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/brave.svg" title="Brave" alt="Brave" height="40"/></a> 
-  <a href="https://bitwarden.com/help/about-vaultwarden/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vaultwarden.svg" title="Vaultwarden" alt="Vaultwarden" height="40"/></a> 
   <a href="https://www.nvidia.com/en-us/geforce/technologies/cuda/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" title="Nvidia CUDA" alt="Nvidia CUDA" height="40"/></a> 
   <a href="https://ollama.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" title="Ollama" alt="Ollama" height="40"/></a>  
   <a href="https://xpipe.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xpipe.svg" title="Xpipe" alt="Xpipe" height="40"/></a> 
