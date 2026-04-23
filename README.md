@@ -153,6 +153,7 @@ SIEM · XDR · and many more 🚀
   <a href="http://phpldapadmin.sourceforge.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/phpldapadmin.png" title="phpLDAPadmin" alt="phpLDAPadmin" height="40"/></a> 
   <a href="https://anubis.techaro.lol/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/anubis.webp" title="Anubis" alt="Anubis" height="40"/></a> 
   <a href="https://guacamole.apache.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/guacamole.svg" title="Apache Guacamole" alt="Apache Guacamole" height="40"/></a> 
+  <a href="https://www.chainguard.dev/de-DE"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chainguard.svg" title="Chainguard" alt="Chainguard" height="40"/></a> 
 </p>
 
 <h3 align="center">Tools</h3>
