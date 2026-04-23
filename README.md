@@ -111,6 +111,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.samba.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/samba-server.svg" title="Samba Server" alt="Samba Server" height="40"/></a> 
   <a href="https://www.resilio.com/sync/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/resiliosync.svg" title="Resilio Sync" alt="Resilio Sync" height="40"/></a> 
   <a href="https://rustfs.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rustfs.svg" title="RustFS" alt="RustFS" height="40"/></a> 
+  <a href="https://www.meilisearch.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/meilisearch.svg" title="meilisearch" alt="meilisearch" height="40"/></a> 
 </p>
 
 <h3 align="center">Monitoring</h3>
@@ -126,6 +127,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://patchmon.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/patchmon.svg" title="Patchmon" alt="Patchmon" height="40"/></a> 
   <a href="https://scanopy.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/scanopy.svg" title="Scanopy" alt="Scanopy" height="40"/></a> 
   <a href="https://checkcle.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/check-cle.svg" title="CheckCle" alt="CheckCle" height="40"/></a> 
+  <a href="https://cockpit-project.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cockpit.svg" title="Cockpit" alt="Cockpit" height="40"/></a> 
 </p>
 
 <h3 align="center">Security</h3>
@@ -185,7 +187,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" title="Adobe After Effects" alt="Adobe After Effects" height="40"/></a> 
   <a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Pro" alt="Adobe Premiere Pro" height="40"/></a> 
   <a href="https://www.obsidian.md"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/obsidian.svg" title="Obsidian" alt="Obsidian" height="40"/></a> 
-  <a href="https://cockpit-project.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cockpit.svg" title="Cockpit" alt="Cockpit" height="40"/></a> 
   <a href="https://dashboardicons.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dashboard-icons.svg" title="Dashboard Icons" alt="Dashboard Icons" height="40"/></a> 
   <a href="https://community-scripts.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/helper-scripts.webp" title="Helper Scripts" alt="Helper Scripts" height="40"/></a> 
   <a href="https://github.com/mkdocs/mkdocs"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mkdocs.svg" title="MkDocs" alt="MkDocs" height="40"/></a> 
