@@ -181,7 +181,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" title="Visual Studio Code" alt="Visual Studio Code" height="40"/></a> 
   <a href="https://developer.apple.com/xcode/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" height="40"/></a> 
   <a href="https://www.nvidia.com/en-us/geforce/technologies/cuda/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" title="Nvidia CUDA" alt="Nvidia CUDA" height="40"/></a> 
-  <a href="https://graphar.incubator.apache.org/"><img src="https://www.apache.org/logos/res/graphar/default.png" title="Apache GraphAr" alt="Apache GraphAr" height="40"/></a> 
 </p>
 
 <h3 align="center">Tools</h3>
@@ -190,8 +189,11 @@ SIEM · XDR · and many more 🚀
   <a href="https://mobaxterm.mobatek.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mobaxterm.png" title="MobaXterm" alt="MobaXterm" height="40"/></a> 
   <a href="https://app.diagrams.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/draw-io.svg" title="Draw.io" alt="Draw.io" height="40"/></a> 
   <a href="https://excalidraw.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/excalidraw.svg" title="Excalidraw" alt="Excalidraw" height="40"/></a> 
+  <a href="https://graphar.incubator.apache.org/"><img src="https://www.apache.org/logos/res/graphar/default.png" title="Apache GraphAr" alt="Apache GraphAr" height="40"/></a> 
   <a href="https://docmost.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docmost.png" title="Docmost" alt="Docmost" height="40"/></a> 
+  <a href="https://github.com/mkdocs/mkdocs"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mkdocs.svg" title="MkDocs" alt="MkDocs" height="40"/></a> 
   <a href="https://triliumnext.github.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/triliumnext.svg" title="TriliumNext" alt="TriliumNext" height="40"/></a> 
+  <a href="https://www.obsidian.md"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/obsidian.svg" title="Obsidian" alt="Obsidian" height="40"/></a> 
   <a href="https://brave.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/brave.svg" title="Brave" alt="Brave" height="40"/></a> 
   <a href="https://ollama.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" title="Ollama" alt="Ollama" height="40"/></a>  
   <a href="https://xpipe.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xpipe.svg" title="Xpipe" alt="Xpipe" height="40"/></a> 
@@ -200,10 +202,8 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" alt="Adobe Photoshop" height="40"/></a> 
   <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" title="Adobe After Effects" alt="Adobe After Effects" height="40"/></a> 
   <a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Pro" alt="Adobe Premiere Pro" height="40"/></a> 
-  <a href="https://www.obsidian.md"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/obsidian.svg" title="Obsidian" alt="Obsidian" height="40"/></a> 
   <a href="https://dashboardicons.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dashboard-icons.svg" title="Dashboard Icons" alt="Dashboard Icons" height="40"/></a> 
   <a href="https://community-scripts.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/helper-scripts.webp" title="Helper Scripts" alt="Helper Scripts" height="40"/></a> 
-  <a href="https://github.com/mkdocs/mkdocs"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mkdocs.svg" title="MkDocs" alt="MkDocs" height="40"/></a> 
   <a href="https://penpot.app/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot.svg" title="Penpot" alt="Penpot" height="40"/></a> 
   <a href="https://github.com/mizuka-official/proxmenu"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmenu.svg" title="Proxmenu" alt="Proxmenu" height="40"/></a> 
   <a href="https://www.supermicro.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg" title="Supermicro" alt="Supermicro" height="40"/></a>
