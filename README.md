@@ -95,6 +95,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://memcached.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/memcached/memcached-plain.svg" title="Memcached" alt="Memcached" height="40"/></a> 
   <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redis.svg" title="Redis" alt="Redis" height="40"/></a> 
   <a href="https://graphar.incubator.apache.org/"><img src="https://www.apache.org/logos/res/graphar/default.png" title="Apache GraphAr" alt="Apache GraphAr" height="40"/></a> 
+  <a href="https://hugegraph.apache.org/"><img src="https://repository-images.githubusercontent.com/141376301/9eb1f6dc-de1d-4c67-baaf-b4312a66c11c" title="Apache HugeGraph" alt="Apache HugeGraph" height="40"/></a>
 </p>
 
 <h3 align="center">Webhosting</h3>
