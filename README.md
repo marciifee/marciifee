@@ -178,6 +178,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.jetbrains.com/de-de/youtrack/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jetbrains-youtrack.svg" title="YouTrack" alt="YouTrack" height="40"/></a> 
   <a href="https://www.kasmweb.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kasm-workspaces.svg" title="Kasm Workspaces" alt="Kasm Workspaces" height="40"/></a> 
   <a href="https://github.com/sundowndev/phoneinfoga"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/phoneinfoga.svg" title="PhoneInfoga" alt="PhoneInfoga" height="40"/></a>
+  <a href="https://www.root-me.org/?lang=de"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/root-me.svg" title="Root Me" alt="Root Me" height="40"/></a>
 </p>
 
 <h3 align="center">Coding</h3>
