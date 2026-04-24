@@ -189,6 +189,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" title="Visual Studio Code" alt="Visual Studio Code" height="40"/></a> 
   <a href="https://developer.apple.com/xcode/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" height="40"/></a> 
   <a href="https://www.nvidia.com/en-us/geforce/technologies/cuda/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" title="Nvidia CUDA" alt="Nvidia CUDA" height="40"/></a> 
+  <a href="https://aomedia.org/specifications/av1/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/av1-light.svg" title="AV1" alt="AV1" height="40"/></a> 
 </p>
 
 <h3 align="center">Tools</h3>
