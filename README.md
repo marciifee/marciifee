@@ -85,6 +85,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://joinmastodon.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mastodon.svg" title="Mastodon" alt="Mastodon" height="40"/></a> 
   <a href="https://github.com/s1t5/mail-archiver"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mail-archiver.svg" title="Mail Archiver" alt="Mail Archiver" height="40"/></a> 
   <a href="https://mailpit.axllent.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailpit.svg" title="Mailpit" alt="Mailpit" height="40"/></a> 
+  <a href="https://kafka.apache.org/"><img src="https://kafka.apache.org/logos/kafka_logo--simple.png" title="Apache Kafka" alt="Apache Kafka" height="40"/></a>
 </p>
 
 <h3 align="center">Databases</h3>
