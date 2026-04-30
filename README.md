@@ -65,6 +65,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://opnsense.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opnsense.svg" title="OPNsense" alt="OPNsense" height="40"/></a>
   <a href="https://www.wireguard.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" title="WireGuard" alt="WireGuard" height="40"/></a>
   <a href="https://technitium.com/dns/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/technitium.webp" title="Technitium" alt="Technitium" height="40"/></a> 
+  <a href="https://www.powerdns.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerdns.svg" title="PowerDNS" alt="PowerDNS" height="40"/></a> 
   <a href="https://phpipam.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/phpipam.webp" title="phpIPAM" alt="phpIPAM" height="40"/></a> 
 </p>
 
