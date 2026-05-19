@@ -56,6 +56,7 @@ SIEM · XDR · and many more 🚀
 <h3 align="center">Network</h3>
 <p align="center">
   <a href="https://traefik.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik-proxy.svg" title="Traefik Proxy" alt="Traefik Proxy" height="40"/></a> 
+  <a href="https://www.haproxy.org/"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/haproxy.svg" title="HAProxy" alt="HAProxy" height="40"/></a> 
   <a href="https://caddyserver.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" title="Caddy Proxy" alt="Caddy Proxy" height="40"/></a> 
   <a href="https://coredns.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/coredns.svg" title="CoreDNS" alt="CoreDNS" height="40"/></a> 
   <a href="https://www.keepalived.org/"><img src="https://geek-cookbook.funkypenguin.co.nz/images/keepalived.png" title="Keepalived" alt="Keepalived" height="40"/></a> 
