@@ -211,7 +211,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://brave.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/brave.svg" title="Brave" alt="Brave" height="40"/></a> 
   <a href="https://ollama.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" title="Ollama" alt="Ollama" height="40"/></a>  
   <a href="https://xpipe.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xpipe.svg" title="Xpipe" alt="Xpipe" height="40"/></a> 
-  <a href="https://www.mumble.info/"><img src="https://github.com/homarr-labs/dashboard-icons/tree/main/svg/mumble.svg" title="Mumble" alt="Mumble" height="40"/></a> 
+  <a href="https://www.mumble.info/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mumble.svg" title="Mumble" alt="Mumble" height="40"/></a> 
   <a href="https://comfyanonymous.github.io/ComfyUI/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg" title="ComfyUI" alt="ComfyUI" height="40"/></a> 
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" alt="Adobe Photoshop" height="40"/></a> 
   <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" title="Adobe After Effects" alt="Adobe After Effects" height="40"/></a> 
