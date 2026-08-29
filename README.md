@@ -220,7 +220,7 @@ SIEM · XDR · and many more 🚀
   <a href="https://community-scripts.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/helper-scripts.webp" title="Helper Scripts" alt="Helper Scripts" height="40"/></a> 
   <a href="https://penpot.app/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot.svg" title="Penpot" alt="Penpot" height="40"/></a> 
   <a href="https://github.com/mizuka-official/proxmenu"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmenu.svg" title="Proxmenu" alt="Proxmenu" height="40"/></a> 
-  <a href="https://www.supermicro.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg" title="Supermicro" alt="Supermicro" height="40"/></a>
+
   </p>
 
 ---
