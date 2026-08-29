@@ -25,12 +25,12 @@ SIEM · XDR · and many more 🚀
 <p align="center">
   <a href="https://www.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" height="40"/></a> 
   <a href="https://www.microsoft.com/windows"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-11.png" title="Windows" alt="Windows" height="40"/></a> 
-  <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" title="Ubuntu" alt="Ubuntu" height="40"/></a> 
   <a href="https://www.apple.com/macos/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apple-alt.svg" title="macOS" alt="macOS" height="40"/></a> 
   <a href="https://fedoraproject.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fedora.svg" title="Fedora" alt="Fedora" height="40"/></a> 
   <a href="https://www.redhat.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redhat-linux.svg" title="Red Hat Linux" alt="Red Hat Linux" height="40"/></a> 
   <a href="https://www.kali.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kali-linux.svg" title="Kali Linux" alt="Kali Linux" height="40"/></a> 
   <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" title="Debian" alt="Debian" height="40"/></a> 
+  <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" title="Ubuntu" alt="Ubuntu" height="40"/></a> 
   <a href="https://www.talos.dev/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/talos.svg" title="TalOS" alt="TalOS" height="40"/></a> 
 </p>
 
