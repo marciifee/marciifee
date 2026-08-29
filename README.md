@@ -223,57 +223,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.supermicro.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supermicro.svg" title="Supermicro" alt="Supermicro" height="40"/></a>
   </p>
 
-
----
-
-### 🎓 Certifications  
-
-**I'm currently certified:**  
-- 🧠 IT-Security Coordinator (IHK)  
-- 💻 Fachinformatiker in Systemintegration (IHK) / Computer Science Expert — System Integration
-
-
-**Future certifications I’m aiming for:**  
-- ☁️ Microsoft Azure Solutions Architect Expert  
-- ⚙️ Microsoft Azure Administrator Associate  
-- 🤖 Microsoft Azure AI Engineer Associate
-- 💼 Microsoft Endpoint Administrator Associate  
-- 🧩 Microsoft M365 Administrator Expert  
-- 🔐 Microsoft Cybersecurity Architect Expert
-- 🛡️ Microsoft Security Operations Analyst Associate
-- 🔏 Microsoft Information Protection Administrator Associate  
-- 🪟 Microsoft Windows Server Hybrid Administrator Associate
-- 📡 Cisco CCNA  
-- 🧱 Certified Kubernetes Security Specialist (CKS)  
-- 🧭 Certified Kubernetes Administrator (CKA)  
-- 🪣 AWS Certified Solutions Architect – Associate  
-- 🛡️ TeleTrusT Information Security Professional (T.I.S.P.)  
-
----
-
-### 🌱 I’m Currently Learning  
-
-- ⚙️ Terraform
-- ☁️ Kubernetes
-- 🪣 AWS Certified Solutions Architect – Associate    
-- ⚙️ Microsoft Azure Administrator Associat
-- 🧩 Microsoft Security, Compliance, and Identity Fundamentals  
-- 🧱 TeleTrusT Information Security Professional (T.I.S.P.) Exam  
-
----
-
-### 🔭 Current Projects  
-
-- Building a **comprehensive home lab** for secure and scalable self-hosting  
-- Developing and improving the **CosplayGIF** platform  
-
----
-
-### 🤔 I’m Looking for Help With  
-
-- 
-- iOS and Android app deployment  
-
 ---
 
 ### 📫 How to Get in Touch  
