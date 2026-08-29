@@ -27,7 +27,6 @@ SIEM · XDR · and many more 🚀
   <a href="https://www.microsoft.com/windows"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-11.png" title="Windows" alt="Windows" height="40"/></a> 
   <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" title="Ubuntu" alt="Ubuntu" height="40"/></a> 
   <a href="https://www.apple.com/macos/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apple-alt.svg" title="macOS" alt="macOS" height="40"/></a> 
-  <a href="https://www.apple.com/macos/"><img src="https://pb.dashboardicons.com/api/files/community_gallery/jk3y6a2qthakirb/mac_os_juf0inl74f.svg" title="macOS" alt="macOS" height="40"/></a> 
   <a href="https://fedoraproject.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fedora.svg" title="Fedora" alt="Fedora" height="40"/></a> 
   <a href="https://www.redhat.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redhat-linux.svg" title="Red Hat Linux" alt="Red Hat Linux" height="40"/></a> 
   <a href="https://www.kali.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kali-linux.svg" title="Kali Linux" alt="Kali Linux" height="40"/></a> 
