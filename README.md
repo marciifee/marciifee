@@ -17,10 +17,6 @@ My journey from **digital film production** to **commercial fashion photography*
 
 ### 🛠️ Technologies I Enjoy Working With  
 
-Kubernetes · Docker · Microsoft 365 · Microsoft Azure · AWS · Google Workspace · Cloudflare ·  
-Active Directory / Entra ID · Python · PHP · Proxmox · Wazuh · OpenVAS · Zero Trust ·  
-SIEM · XDR · and many more 🚀  
-
 <h3 align="center">OS</h3>
 <p align="center">
   <a href="https://www.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" title="Linux" alt="Linux" height="40"/></a> 
