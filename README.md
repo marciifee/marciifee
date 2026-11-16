@@ -65,6 +65,7 @@ My journey from **digital film production** to **commercial fashion photography*
   <a href="https://technitium.com/dns/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/technitium.webp" title="Technitium" alt="Technitium" height="40"/></a> 
   <a href="https://www.powerdns.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerdns.svg" title="PowerDNS" alt="PowerDNS" height="40"/></a> 
   <a href="https://phpipam.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/phpipam.webp" title="phpIPAM" alt="phpIPAM" height="40"/></a> 
+  <a href="https://openvpn.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openvpn.svg" title="OpenVPN" alt="OpenVPN" height="40"/></a> 
 </p>
 
 <h3 align="center">Automation / IaC</h3>
