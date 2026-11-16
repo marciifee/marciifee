@@ -28,6 +28,7 @@ My journey from **digital film production** to **commercial fashion photography*
   <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" title="Debian" alt="Debian" height="40"/></a> 
   <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" title="Ubuntu" alt="Ubuntu" height="40"/></a> 
   <a href="https://www.talos.dev/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/talos.svg" title="TalOS" alt="TalOS" height="40"/></a> 
+  <a href="https://learn.microsoft.com/de-de/azure/azure-linux/azure-linux-overview"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-linux.svg" title="Azure Linux" alt="Azure Linux" height="40"/></a>
 </p>
 
 <h3 align="center">Hypervisor / Container</h3>
