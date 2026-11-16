@@ -83,6 +83,7 @@ My journey from **digital film production** to **commercial fashion photography*
   <a href="https://mqtt.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mqtt.svg" title="MQTT" alt="MQTT" height="40"/></a> 
   <a href="https://proton.me/mail"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-mail.svg" title="Proton Mail" alt="Proton Mail" height="40"/></a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/exchange/email"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-exchange.svg" title="Microsoft Exchange Online" alt="Microsoft Exchange Online" height="40"/></a> 
+  <a href="https://www.microsoft.com/de-de/microsoft-teams/premium?market=de#Features"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-teams.svg" title="Microsoft Teams" alt="Microsoft Teams" height="40"/></a> 
   <a href="https://workspace.google.com/intl/de/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" title="Google Workspace" alt="Google Workspace" height="40"/></a>
   <a href="https://www.mailjet.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailjet.svg" title="Mailjet SMTP Relay" alt="Mailjet SMTP Relay" height="40"/></a> 
   <a href="https://joinmastodon.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mastodon.svg" title="Mastodon" alt="Mastodon" height="40"/></a> 
