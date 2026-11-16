@@ -196,6 +196,7 @@ My journey from **digital film production** to **commercial fashion photography*
   <a href="https://www.adminbyrequest.com/en/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/admin-by-request.svg" title="Admin By Request" alt="Admin By Request" height="40"/></a>
   <a href="https://cert-manager.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cert-manager.svg" title="Cert Manager" alt="Cert Manager" height="40"/></a>
   <a href="https://github.com/OpenSCAP/openscap"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openscap.svg" title="OpenSCAP" alt="OpenSCAP" height="40"/></a>
+  <a href="https://warpgate.null.page/"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/warpgate.svg" title="Warpgate" alt="Warpgate" height="40"/></a>
 </p>
 
 <h3 align="center">Coding</h3>
