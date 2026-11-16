@@ -40,6 +40,7 @@ My journey from **digital film production** to **commercial fashion photography*
   <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubernetes.svg" title="Kubernetes" alt="Kubernetes" height="40"/></a> 
   <a href="https://k3s.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k3s/k3s-plain-wordmark.svg" title="K3s" alt="K3s" height="40"/></a> 
   <a href="https://komo.do/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/komodo.svg" title="Komodo" alt="Komodo" height="40"/></a> 
+  <a href="https://proxmox.com/en/products/proxmox-backup-server/overview"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-backup-server.svg" title="Proxmox Backup Server" alt="Proxmox Backup Server" height="40"/></a> 
 </p>
 
 <h3 align="center">Cloud</h3>
