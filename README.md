@@ -148,6 +148,7 @@ My journey from **digital film production** to **commercial fashion photography*
   <a href="https://scanopy.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/scanopy.svg" title="Scanopy" alt="Scanopy" height="40"/></a> 
   <a href="https://checkcle.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/check-cle.svg" title="CheckCle" alt="CheckCle" height="40"/></a> 
   <a href="https://cockpit-project.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cockpit.svg" title="Cockpit" alt="Cockpit" height="40"/></a> 
+  <a href="https://plausible.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/plausible.svg" title="Plausible" alt="Plausible" height="40"/></a>
 </p>
 
 <h3 align="center">Security</h3>
