@@ -92,6 +92,7 @@ My journey from **digital film production** to **commercial fashion photography*
   <a href="https://mailpit.axllent.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailpit.svg" title="Mailpit" alt="Mailpit" height="40"/></a> 
   <a href="https://mailstore.com/"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mailstore.svg" title="MailStore" alt="MailStore" height="40"/></a>
   <a href="https://kafka.apache.org/"><img src="https://kafka.apache.org/logos/kafka_logo--simple.png" title="Apache Kafka" alt="Apache Kafka" height="40"/></a>
+  <a href="https://www.ciphermail.com/gateway.html"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ciphermail.svg" title="CipherMail" alt="CipherMail" height="40"/></a>
 </p>
 
 <h3 align="center">Databases</h3>
