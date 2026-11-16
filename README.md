@@ -33,6 +33,7 @@ My journey from **digital film production** to **commercial fashion photography*
 <h3 align="center">Hypervisor / Container</h3>
 <p align="center">
   <a href="https://www.virtualbox.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virtualbox.svg" title="Oracle VirtualBox" alt="Oracle VirtualBox" height="40"/></a> 
+  <a href="https://www.vmware.com/products/cloud-infrastructure/vsphere"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-esxi.svg" title="Vmware Esxi" alt="Vmware Esxi" height="40"/></a> 
   <a href="https://www.proxmox.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" title="Proxmox" alt="Proxmox" height="40"/></a> 
   <a href="https://www.portainer.io/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/portainer-be.svg" title="Portainer" alt="Portainer" height="40"/></a> 
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" title="Docker" alt="Docker" height="40"/></a> 
