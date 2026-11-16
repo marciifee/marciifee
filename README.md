@@ -139,6 +139,7 @@ My journey from **digital film production** to **commercial fashion photography*
   <a href="https://rustfs.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rustfs.svg" title="RustFS" alt="RustFS" height="40"/></a> 
   <a href="https://www.meilisearch.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/meilisearch.svg" title="meilisearch" alt="meilisearch" height="40"/></a> 
   <a href="https://tika.apache.org/"><img src="https://tika.apache.org/tika.png" title="Apache Tika" alt="Apache Tika" height="40"/></a>
+  <a href="https://ceph.io/en/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ceph.svg" title="Ceph" alt="Ceph" height="40"/></a>
 </p>
 
 <h3 align="center">Monitoring</h3>
