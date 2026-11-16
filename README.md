@@ -47,6 +47,7 @@ My journey from **digital film production** to **commercial fashion photography*
   <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws.svg" title="AWS" alt="AWS" height="40"/></a> 
   <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-azure.svg" title="Microsoft Azure" alt="Microsoft Azure" height="40"/></a> 
   <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" height="40"/></a> 
+  <a href="https://admin.google.com/u/1/ac/home?hl=de"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-admin.svg" title="Google Admin" alt="Google Admin" height="40"/></a> 
 </p>
 
 <h3 align="center">Network</h3>
