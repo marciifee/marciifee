@@ -70,6 +70,7 @@ My journey from **digital film production** to **commercial fashion photography*
   <a href="https://phpipam.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/phpipam.webp" title="phpIPAM" alt="phpIPAM" height="40"/></a> 
   <a href="https://openvpn.net/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openvpn.svg" title="OpenVPN" alt="OpenVPN" height="40"/></a> 
   <a href="https://github.com/MizuchiLabs/mantrae"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mantrae.svg" title="Mantrae" alt="Mantrae" height="40"/></a> 
+  <a href="https://github.com/xoriin/NetMap"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/netmap.svg" title="NetMap" alt="NetMap" height="40"/></a> 
 </p>
 
 <h3 align="center">Automation / IaC</h3>
