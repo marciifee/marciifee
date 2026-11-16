@@ -139,7 +139,7 @@ My journey from **digital film production** to **commercial fashion photography*
   <a href="https://www.resilio.com/sync/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/resiliosync.svg" title="Resilio Sync" alt="Resilio Sync" height="40"/></a> 
   <a href="https://rustfs.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rustfs.svg" title="RustFS" alt="RustFS" height="40"/></a> 
   <a href="https://www.meilisearch.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/meilisearch.svg" title="meilisearch" alt="meilisearch" height="40"/></a> 
-  <a href="https://tika.apache.org/"><img src="https://tika.apache.org/tika.png" title="Apache Tika" alt="Apache Tika" height="40"/></a>
+  <a href="https://tika.apache.org/"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/apache-tika-binary.svg" title="Apache Tika" alt="Apache Tika" height="40"/></a>
   <a href="https://ceph.io/en/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ceph.svg" title="Ceph" alt="Ceph" height="40"/></a>
   <a href="https://github.com/datarhei/restreamer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/restreamer.svg" title="Restreamer" alt="Restreamer" height="40"/></a>
 </p>
