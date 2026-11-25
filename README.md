@@ -1,7 +1,15 @@
 ### 🌸 Aloha! I'm Marc 👋  
 
-An **IT specialist** with a focus on **cybersecurity** and **cloud solutions**, and Founder and technical lead of my creative tech project **CosplayGIF**.  
-I’m currently studying **Bachelor of Science in IT Security** @ Berlin University of Applied Sciences and Technology and also preparing for the **Certified Information Security Specialist**.
+**IT Specialist (Cybersecurity & Cloud)** • **Founder & Tech Lead @ CosplayGIF** 
+
+#### 🎓 Education / Certification Track:
+- studying **Bachelor of Science in IT Security** @ Berlin University of Applied Sciences and Technology (BHT Berlin)
+- **Certified Information Security Specialist** / **geprüfter Berufsspezialist in Informationssicherheit** (IHK)
+- **IT-Security-Coordinator** (IHK)
+- **Microsoft Azure AZ-900**
+- **Microsoft Azure AI-901**
+#### 💻 Interests:
+Cloud architecture, security hardening, and creative media automation
 
 ---
 
